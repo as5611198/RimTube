@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MainButtonDef>
+    <defName>RimTube</defName>
+    <label>Music</label>
+    <description>Open the RimTube media player.</description>
+    <tabWindowClass>RimTube.MusicTab</tabWindowClass>
+    <order>91</order>
+    <validWithoutMap>true</validWithoutMap>
+  </MainButtonDef>
+</Defs>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimTube</name>
+  <author>ANLN666</author>
+  <packageId>rimtube.music</packageId>
+  <supportedVersions><li>1.5</li><li>1.6</li><li>1.7</li></supportedVersions>
+  <description>Your colonists handle the chores. You handle the playlist.
+
+Play public YouTube audio, videos and live streams, import local music, and organize everyday and combat playlists. Includes a mini player, floating video window, captions, four themes and automatic game-music playlists grouped by source. Traditional Chinese and English interfaces.
+
+Windows x64 full bundle includes mpv, yt-dlp, Node.js, FFmpeg and ffprobe with automatic tool discovery. Player data is stored outside the installed mod.
+Includes an optional, player-triggered stable yt-dlp updater with verification and a bundled-version fallback. No scheduled updates.
+Windows public beta. All playback tools, licenses and provenance remain bundled. Complete corresponding tool sources and build recipes are available free, without login, from the fixed Release below. Tools/Sources/README.txt lists direct downloads and SHA-256 checksums. Sources are optional and are not downloaded on game startup.
+https://github.com/as5611198/RimTube-ThirdParty-Sources/releases/tag/tools-20261102-0.2.0
+
+播放工具與授權仍隨包；完整對應工具原始碼與建置配方由上述固定 GitHub Release 免費提供，無須登入。模組內 Tools/Sources/README.txt 附直接下載與 SHA-256；玩遊戲不用下載來源材料。
+
+本模組使用 Gemini 及 Codex（GPT）協助製作。
+Created with assistance from Gemini and Codex (GPT).</description>
+</ModMetaData>

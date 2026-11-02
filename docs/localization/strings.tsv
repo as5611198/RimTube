@@ -1,0 +1,490 @@
+key	ChineseTraditional	English
+RimTube.DataOutsideMod	請把音樂庫放在模組資料夾之外，避免模組更新覆蓋資料。	Keep the library outside the mod folder so mod updates cannot overwrite your data.
+RimTube.AbsoluteDataPath	請指定完整的資料夾路徑。	Choose an absolute folder path.
+RimTube.LibraryTitle	RimTube · 媒體庫	RimTube · Media library
+RimTube.Initializing	播放器正在初始化。	Initializing player.
+RimTube.Mini	迷你列	Mini
+RimTube.Video	影片	Video
+RimTube.HideAll	全隱藏	Hide all
+RimTube.Previous	上一首	Previous
+RimTube.PreviousShort	上首	Prev
+RimTube.Next	下一首	Next
+RimTube.NextShort	下首	Next
+RimTube.Play	播放	Play
+RimTube.Pause	暫停	Pause
+RimTube.Stop	停止	Stop
+RimTube.Mute	靜音	Mute
+RimTube.Unmute	取消靜音	Unmute
+RimTube.SoundOn	有聲	Unmute
+RimTube.Volume	音量	Volume
+RimTube.Ordered	依序	In order
+RimTube.Shuffle	隨機	Shuffle
+RimTube.RepeatOne	單曲循環	Repeat 1
+RimTube.RepeatAll	清單循環	Repeat all
+RimTube.AllMedia	全部媒體	All media
+RimTube.GameMusic	遊戲音樂 · 選曲	Game music
+RimTube.Playlists	播放清單	Playlists
+RimTube.NewPlaylist	＋ 新增歌單	+ New playlist
+RimTube.Jobs	下載／匯入工作	Downloads / imports
+RimTube.Settings	設定與外觀	Settings / appearance
+RimTube.Clear	清除	Clear
+RimTube.Refresh	重新整理	Refresh
+RimTube.Refreshing	更新中…	Updating…
+RimTube.PlaylistActions	歌單操作	Playlist actions
+RimTube.Search	搜尋	Search
+RimTube.Cancel	取消	Cancel
+RimTube.CancelResolve	取消解析	Cancel lookup
+RimTube.YouTubeMedia	YT 媒體	YT media
+RimTube.YouTubePlaylist	YT 歌單	YT playlist
+RimTube.LocalImport	本機匯入	Import local
+RimTube.Add	加入	Add
+RimTube.More	更多	More
+RimTube.Save	儲存	Save
+RimTube.Close	關閉	Close
+RimTube.Retry	重試	Retry
+RimTube.Done	完成	Complete
+RimTube.Failed	失敗	Failed
+RimTube.Canceled	已取消	Canceled
+RimTube.Interrupted	上次中斷	Interrupted
+RimTube.Waiting	等待	Queued
+RimTube.JobsActive	下載／匯入中	Downloading / importing
+RimTube.CreatingPlaylist	新增播放清單	New playlist
+RimTube.RenamePlaylist	重新命名歌單	Rename playlist
+RimTube.Rename	重新命名	Rename
+RimTube.SetGeneral	指定為日常音樂	Use as everyday music
+RimTube.SetCombat	指定為戰鬥音樂	Use as combat music
+RimTube.RefreshSource	重新整理來源歌單	Refresh source playlist
+RimTube.ManualSync	手動同步來源（先預覽）	Sync source (preview first)
+RimTube.SourceAll	來源：全部	Source: all
+RimTube.SourceYouTube	來源：YouTube	Source: YouTube
+RimTube.SourceLocal	來源：本機匯入	Source: local files
+RimTube.SourceCore	來源：原版	Source: base game
+RimTube.SourceDlc	來源：DLC	Source: DLC
+RimTube.SourceMod	來源：模組	Source: mods
+RimTube.StorageAll	保存：全部	Storage: all
+RimTube.StorageSaved	保存：已有本機副本	Storage: saved copies
+RimTube.StorageRemote	保存：僅線上來源	Storage: online only
+RimTube.StorageMissing	狀態：缺少來源／檔案	Status: missing source / file
+RimTube.TypeAll	類型：全部	Type: all
+RimTube.TypeMusic	類型：音樂	Type: music
+RimTube.TypeVideo	類型：影片	Type: video
+RimTube.TypeLive	類型：直播	Type: live
+RimTube.Library	媒體庫	Library
+RimTube.AudioOnly	純音訊	Audio only
+RimTube.Restore	還原	Restore
+RimTube.Maximize	放大	Maximize
+RimTube.Options	選項	Options
+RimTube.Quality	畫質	Quality
+RimTube.QualityPrefix	畫質 	Quality 
+RimTube.Hide	隱藏	Hide
+RimTube.LockThrough	穿透鎖定	Lock overlay
+RimTube.SubtitleOptions	字幕選項	Subtitle options
+RimTube.SubtitleOff	關閉字幕	Turn off subtitles
+RimTube.SubtitleLanguage	字幕語言	Subtitle language
+RimTube.SelectLanguage	選擇語言	Languages
+RimTube.ManualCaption	 · 人工字幕	 · manual captions
+RimTube.AutoCaption	 · 來源自動字幕	 · source auto captions
+RimTube.SourceCaption	 · 來源字幕	 · source captions
+RimTube.CaptionLoading	正在取得影片資訊與字幕語言…	Fetching video details and caption languages…
+RimTube.CaptionLookupFailed	無法取得字幕語言；請檢查網址與工具設定。	Cannot fetch caption languages. Check the URL and tool settings.
+RimTube.CaptionRetry	字幕資訊讀取失敗；可重新開啟再試。	Caption lookup failed. Reopen this window to retry.
+RimTube.PlayerChanged	播放器已切換，請重新開啟。	The player changed. Reopen this window.
+RimTube.NoCaptions	此來源沒有可用字幕。	This source has no available captions.
+RimTube.CaptionToggleHint	字幕開關：亮起為開啟，暗色為關閉；尚無字幕時開啟字幕選項。	CC: bright when on, dim when off. Opens caption options if no track is loaded.
+RimTube.CaptionFooter	CC 按鈕可立即開關字幕。選擇其他語言會以串流重新載入，保留進度與本機副本。	CC toggles captions instantly. Changing language reloads the stream and keeps your position and saved copies.
+RimTube.CaptionFallback	所選語言沒有人工字幕時，嘗試來源自動字幕	Allow source auto captions when manual captions are unavailable
+RimTube.CaptionDefaults	新媒體的預設字幕 · 全域偏好	Default captions for new media · global preference
+RimTube.CaptionDefaultPrefix	預設字幕：	Default captions: 
+RimTube.NoAutoSelection	不自動選擇	Off
+RimTube.NoAutoCaptions	不自動選擇字幕	Do not select captions automatically
+RimTube.DefaultCaptionFallback	預設允許來源自動字幕（找不到人工字幕時）	Allow source auto captions by default when manual captions are unavailable
+RimTube.YouTubeOptions	YouTube 媒體選項	YouTube media options
+RimTube.ContentPrefix	內容：	Content: 
+RimTube.VideoAndAudio	影片與聲音	Video and audio
+RimTube.MusicOnly	僅音樂	Audio only
+RimTube.StreamNow	直接串流播放	Stream now
+RimTube.DownloadPlay	先下載，再播放	Download, then play
+RimTube.DownloadOnly	只下載並保存	Download only
+RimTube.PreferSaved	優先本機副本並播放	Play saved copy first
+RimTube.DeleteAudio	刪除音樂副本	Delete audio copy
+RimTube.DeleteVideo	刪除影片副本	Delete video copy
+RimTube.DownloadQueue	加入下載佇列	Add to download queue
+RimTube.UiPreferences	介面與操作 · 全域偏好	Interface and controls · global preferences
+RimTube.ThemePrefix	主題：	Theme: 
+RimTube.ShowMini	顯示迷你列（播放器／影片開啟時收起）	Show mini player (collapsed while library or video is open)
+RimTube.SnapMini	迷你列吸附螢幕邊緣	Snap mini player to screen edges
+RimTube.FadeMini	迷你列閒置時淡化	Fade mini player when idle
+RimTube.LockMini	迷你列鎖定並穿透（用恢復快捷鍵解除）	Lock mini player and pass clicks through (use restore hotkey to unlock)
+RimTube.KeepAspect	影片保持來源比例（未知時先採 16:9）	Keep source aspect ratio (16:9 while unknown)
+RimTube.MiniOpacity	迷你列背景透明度	Mini player opacity
+RimTube.RestoreMini	恢復迷你列／解除穿透	Restore / unlock mini player
+RimTube.ResetWindows	重設視窗位置	Reset window positions
+RimTube.ColonySettings	殖民地播放設定 · 隨遊戲存檔保存	Colony playback settings · saved with the game
+RimTube.CombatPrefix	戰鬥時：	During combat: 
+RimTube.GeneralListPrefix	日常清單：	Everyday playlist: 
+RimTube.CombatListPrefix	戰鬥清單：	Combat playlist: 
+RimTube.Unassigned	未指定	Not assigned
+RimTube.PauseWithGame	遊戲暫停時，同時暫停音樂	Pause music when the game is paused
+RimTube.CoverPause	影片被遮住：暫藏並暫停，返回續播	When covered: hide and pause, resume on return
+RimTube.CoverContinue	影片被遮住：影音持續播放（不暫藏）	When covered: keep video and audio playing
+RimTube.CoverPauseChoice	暫藏並暫停，返回續播	Hide and pause; resume on return
+RimTube.CoverContinueChoice	影音持續播放（不暫藏）	Keep video and audio playing
+RimTube.MediaTools	媒體與工具 · 音樂庫設定	Media and tools · library settings
+RimTube.SwitchFolder	切換資料夾	Switch folder
+RimTube.RefreshStorage	更新容量／狀態	Refresh storage / status
+RimTube.ApplySettings	儲存並套用播放設定	Save and apply playback settings
+RimTube.CheckTools	檢查工具版本	Check tool versions
+RimTube.NativeBackend	原生本機音訊	Native local audio
+RimTube.BackendNative	後端：原生本機音訊	Backend: native local audio
+RimTube.BackendMpv	後端：mpv	Backend: mpv
+RimTube.VanillaBattle	原版戰鬥音樂	Vanilla combat music
+RimTube.CustomBattle	自訂戰鬥清單	Custom combat playlist
+RimTube.ContinueBattle	繼續目前音樂	Continue current music
+RimTube.HotkeyPanel	開啟／關閉媒體庫	Toggle media library
+RimTube.HotkeyPlay	播放／暫停	Play / pause
+RimTube.HotkeyRestore	恢復迷你列並解除穿透	Restore and unlock mini player
+RimTube.HotkeyLock	切換迷你列穿透	Toggle mini player click-through
+RimTube.NotSet	未設定	Not set
+RimTube.Rust	廢土工業	Rust and scrap
+RimTube.RustFlavor	殖民地電台	Colony radio
+RimTube.Glitter	閃耀科技	Glitterworld
+RimTube.GlitterFlavor	星際通訊	Interstellar signal
+RimTube.Medieval	中世紀奇幻	Medieval fantasy
+RimTube.MedievalFlavor	吟遊詩人的樂章	The bard's songbook
+RimTube.Tribal	部落原始	Tribal
+RimTube.TribalFlavor	先祖的回聲	Ancestral echoes
+RimTube.CaptionAvailable	可用字幕：人工 {0} 種，自動 {1} 種；尚未選擇時不載入字幕。	Available captions: {0} manual, {1} auto. No captions load until selected.
+RimTube.Less	收起	Less
+RimTube.VideoControlsHint	展開或收起音量、字幕與畫質控制；時間與進度條會保留。	Expand or collapse volume, caption and quality controls. The timeline remains available.
+RimTube.SeekHint	點擊或拖曳預覽位置，放開滑鼠後跳轉；Esc 取消。	Click or drag to preview a position, then release to seek. Esc cancels.
+RimTube.LiveSeekHint	直播 · 無法任意跳轉。	Live stream. Seeking is unavailable.
+RimTube.SeekUnavailable	目前尚無可跳轉的影片進度。	Seeking is currently unavailable.
+RimTube.QualityHint	直接切換串流畫質上限；來源缺少此畫質時使用較低畫質。一般影片保留位置，直播重新接上即時畫面。切換時會短暫重新載入。	Change the stream quality limit. Lower quality is used if needed. Videos keep their position; live streams reconnect to the live feed. Reloading takes a moment.
+RimTube.VideoCovered	影片暫藏並自動暫停；關閉遮擋視窗後續播。	Video hidden and paused. Close the covering window to resume.
+RimTube.VideoUnavailable	影片表面不可用；後端可能使用獨立影片視窗。	The embedded video surface is unavailable. The backend may use a separate window.
+RimTube.AllMusic	全部音樂	All music
+RimTube.AllVideos	全部影片	All videos
+RimTube.MusicLibraryHeading	音樂庫 · 所有已加入的音樂	Music library · All added music
+RimTube.VideoLibraryHeading	影片庫 · 串流與已下載影片	Video library · Streams and downloads
+RimTube.SubtitleSize	字幕大小：{0}%	Subtitle size: {0}%
+RimTube.SubtitleSizeHint	即時調整字幕大小，不重新載入影片；小視窗建議 150%～250%。此設定會保存。	Resize captions immediately without reloading the video. Try 150%–250% for a small window. This preference is saved.
+RimTube.RemoveMedia	從媒體庫刪除（含保存檔案）…	Delete from library, including saved files…
+RimTube.RemoveMediaConfirm	將「{0}」從媒體庫與所有歌單刪除，並刪除 RimTube 保存的音樂、影片與字幕？\n原始匯入檔案、遊戲資產及其他曲目仍共用的檔案會保留。	Delete “{0}” from the library and all playlists, including audio, video and captions saved by RimTube?\nOriginal import sources, game assets and files still shared by other tracks are kept.
+RimTube.RemovingMedia	正在等待播放器釋放檔案並刪除媒體…	Waiting for the player to release files before deleting media…
+RimTube.NewPlaylistMessage	新清單	New playlist
+RimTube.CouldNotReadTheLibraryOriginalFilesAre	音樂庫讀取失敗，已保護原檔；請備份並修復，或改用其他資料夾。	Could not read the library. Original files are protected; back up and repair the library, or choose another folder.
+RimTube.EverydayMusic	一般音樂	Everyday music
+RimTube.CombatMusic	戰鬥音樂	Combat music
+RimTube.AnotherGameProcessIsUsingThisLibraryOpened	另一個遊戲程序正在使用此音樂庫；本次以唯讀開啟，避免覆蓋清單。	Another game process is using this library. Opened read-only to protect your playlists.
+RimTube.TheAudioFilenameContainsADisallowedPath	音訊檔名含有不允許的路徑。	The audio filename contains a disallowed path.
+RimTube.TheTargetPlaylistWasRemoved	目標歌單已移除。	The target playlist was removed.
+RimTube.ImportMedia	匯入媒體	Import media
+RimTube.SelectAPlaylistFirst	請先選擇清單。	Select a playlist first.
+RimTube.AutomaticSourcePlaylistsAreManagedByTheGame	自動來源歌單由遊戲音樂目錄管理，請加入自訂歌單。	Automatic source playlists are managed by the game music catalog. Add tracks to a custom playlist instead.
+RimTube.SynchronizationComplete	同步完成	Synchronization complete
+RimTube.OnlyPartialResultsWereRetrievedExistingTracksAnd	只取得部分結果，保留原有曲目與順序	Only partial results were retrieved; existing tracks and order were preserved
+RimTube.TheAudioWasDeletedDownloadOrImportIt	音訊已由使用者刪除，可重新下載／匯入。	The audio was deleted. Download or import it again.
+RimTube.UnsupportedLibraryFormat	不支援的音樂庫格式。	Unsupported library format.
+RimTube.TheTrackHasNoID	曲目缺少 ID。	The track has no ID.
+RimTube.InvalidPlaylistID	清單 ID 無效。	Invalid playlist ID.
+RimTube.TheQualityLimitMustBeBetween144pAnd	畫質上限必須介於 144p 與 4320p。	The quality limit must be between 144p and 4320p.
+RimTube.EnterACaptionLanguageCodeSuchAsZh	請輸入字幕語言代碼，例如 zh-TW、zh-Hans、en，或 off。	Enter a caption language code such as zh-TW, zh-Hans, en, or off.
+RimTube.UnsupportedMediaAcquisitionMode	不支援的媒體取得方式。	Unsupported media acquisition mode.
+RimTube.TheSourceContainsInvalidPlaybackHeaders	來源包含無效的播放標頭。	The source contains invalid playback headers.
+RimTube.ThisSourceHasNotBeenApprovedForThis	此來源尚未取得本次播放所需的確認，未開啟媒體。	This source has not been approved for this playback session. No media was opened.
+RimTube.ThePlaybackSourceHasExpiredPrepareItAgain	播放來源已過期，請重新準備。	The playback source has expired. Prepare it again.
+RimTube.ThePlaybackSourceIsMissing	播放來源不存在。	The playback source is missing.
+RimTube.InvalidGameMusicSession	遊戲音樂 Session 無效。	Invalid game music session.
+RimTube.UnsupportedNetworkMediaProtocol	不支援此網路媒體協定。	Unsupported network media protocol.
+RimTube.InvalidLocalSupplementaryMediaPath	本機附加媒體路徑無效。	Invalid local supplementary media path.
+RimTube.InvalidSupplementaryMediaURL	附加媒體網址無效。	Invalid supplementary media URL.
+RimTube.TheAdapterForThisMusicSourceIsNot	尚未安裝此音樂來源的 Adapter。	The adapter for this music source is not installed.
+RimTube.CouldNotIdentifyThisSource	無法識別此來源。	Could not identify this source.
+RimTube.GameMusicAssetsCannotBeDeletedFromThe	遊戲音樂資產不能由媒體庫刪除。	Game music assets cannot be deleted from the library.
+RimTube.TheMediaPathIsOutsideTheLibrary	媒體路徑超出音樂庫。	The media path is outside the library.
+RimTube.MediaDeletionCannotTraverseDirectoryOrFileLinks	刪除媒體不能經過目錄或檔案連結。	Media deletion cannot traverse directory or file links.
+RimTube.MpvIsNotConfiguredOrItsVersionCheck	mpv 未設定或版本檢查失敗；請設定 mpv.exe，或選擇本機播放後端。	mpv is not configured or its version check failed. Set the mpv.exe path, or use the native backend for local audio.
+RimTube.CouldNotConnectToMpvCheckTheTool	無法連線至 mpv，請檢查工具版本與路徑。	Could not connect to mpv. Check the tool version and path.
+RimTube.LocalAudioWasNotFound	找不到本機音訊。	Local audio was not found.
+RimTube.CouldNotOpenTheAudioCheckItsFormat	音訊開啟失敗，請確認格式及來源。	Could not open the audio. Check its format and source.
+RimTube.InvalidPlaybackPosition	無效的播放位置。	Invalid playback position.
+RimTube.InvalidVolume	無效的音量。	Invalid volume.
+RimTube.UnsupportedDiagnosticProperty	不支援的診斷屬性。	Unsupported diagnostic property.
+RimTube.InvalidCaptionSize	字幕大小無效。	Invalid caption size.
+RimTube.MpvCouldNotCompleteTheOperationCheckThe	mpv 無法完成播放操作，請檢查音訊來源。	mpv could not complete the operation. Check the audio source.
+RimTube.MpvTimedOutStopPlaybackAndTryAgain	mpv 回應逾時，請停止後重試。	mpv timed out. Stop playback and try again.
+RimTube.DisconnectedFromMpvStartPlaybackAgain	mpv 連線中斷，請重新播放。	Disconnected from mpv. Start playback again.
+RimTube.AudioPreparationTimedOutTryAgainOrChoose	音訊準備逾時，請重試或更換來源。	Audio preparation timed out. Try again or choose another source.
+RimTube.MpvExitedOrDisconnectedCheckTheToolAnd	mpv 已退出或連線中斷；可檢查工具後重新播放。	mpv exited or disconnected. Check the tool and start playback again.
+RimTube.DisconnectedFromMpv	mpv 連線中斷。	Disconnected from mpv.
+RimTube.TheAudioCannotBeDecodedOrItsSource	音訊無法解碼或來源不可用。	The audio cannot be decoded or its source is unavailable.
+RimTube.CouldNotProtectThePlayerProcessMpvWas	無法建立播放器程序保護，未啟動 mpv。	Could not protect the player process. mpv was not started.
+RimTube.CouldNotStartOrProtectTheMpvChild	無法啟動或保護 mpv 子程序。	Could not start or protect the mpv child process.
+RimTube.Stopped	已停止	Stopped
+RimTube.Stopping	正在停止	Stopping
+RimTube.ThisSourceDoesNotSupportSeeking	此來源不支援定位。	This source does not support seeking.
+RimTube.ThePlayerIsBusyTrySeekingAgainShortly	播放器忙碌，請稍後定位。	The player is busy. Try seeking again shortly.
+RimTube.CombatVanillaMusic	戰鬥中：原版音樂	Combat: vanilla music
+RimTube.VideoCoveredAutomaticallyPaused	影片暫藏：自動暫停	Video covered: automatically paused
+RimTube.Paused	已暫停	Paused
+RimTube.TheSourceExpiredPreparingItAgain	來源已過期，重新準備。	The source expired. Preparing it again.
+RimTube.NoPlayableSourcesInThePlaylist	清單中沒有可播放來源	No playable sources in the playlist
+RimTube.ThePlaybackBackendDisconnectedCheckTheToolsAnd	播放後端中斷，請檢查工具後重試。	The playback backend disconnected. Check the tools and try again.
+RimTube.Buffering	正在緩衝	Buffering
+RimTube.PlayingCombatPlaylist	播放戰鬥清單	Playing combat playlist
+RimTube.Playing	播放中	Playing
+RimTube.PreparingPlaybackSource	準備播放來源	Preparing playback source
+RimTube.PlaybackFailedCheckTheSourceAndPlaybackTools	播放器操作失敗，請檢查來源與播放工具。	Playback failed. Check the source and playback tools.
+RimTube.TheSourcePreviewIsIncompleteAndHasNo	來源預覽不完整，沒有可套用的歌曲；請重新查詢。	The source preview is incomplete and has no tracks to apply. Query it again.
+RimTube.TheTargetPlaylistWasRemovedQueryItAgain	目標清單已移除，請重新查詢。	The target playlist was removed. Query it again.
+RimTube.ThePlaylistSourceChangedQueryItAgain	清單來源已變更，請重新查詢。	The playlist source changed. Query it again.
+RimTube.ThisSourceDoesNotSupportOnlinePlaylistEnumeration	此來源尚未提供線上清單列舉能力。	This source does not support online playlist enumeration.
+RimTube.TheSourceReturnedTheSamePageAgainSynchronization	來源重複回傳同一頁，停止同步並保留原清單。	The source returned the same page again. Synchronization stopped; the original playlist was preserved.
+RimTube.TheSourceReturnedAnIncompletePlaylist	來源回傳不完整清單。	The source returned an incomplete playlist.
+RimTube.TheSourcePlaylistIdentityChangedSynchronizationStopped	來源清單識別不一致，停止同步。	The source playlist identity changed. Synchronization stopped.
+RimTube.ThePreviewLimitWasReachedTheOriginalPlaylist	超過本次預覽上限，保留原有清單，不套用移除或排序。	The preview limit was reached. The original playlist was preserved; removals and ordering were not applied.
+RimTube.SomeSourceEntriesAreUnavailableExistingTracksAnd	來源有部分項目無法取得，保留原有曲目與順序。	Some source entries are unavailable. Existing tracks and order were preserved.
+RimTube.TheCompletePlaylistIsReadyYouCanPreview	完整清單已取得，可預覽同步差異。	The complete playlist is ready. You can preview synchronization changes.
+RimTube.TheSourceOmittedTheNextPageTheOriginal	來源缺少後續頁，保留原有清單。	The source omitted the next page. The original playlist was preserved.
+RimTube.TooManySourcePagesEnumerationStoppedTheOriginal	來源頁數過多，已停止列舉並保留原清單。	Too many source pages. Enumeration stopped; the original playlist was preserved.
+RimTube.ThePlaylistSourceDisconnectedTheOriginalPlaylistWas	清單來源中斷，已保留原清單；目前預覽僅含部分結果。	The playlist source disconnected. The original playlist was preserved; the preview contains partial results.
+RimTube.InvalidSavedMediaPath	保存媒體路徑無效。	Invalid saved media path.
+RimTube.InvalidSavedCaptionPath	保存字幕路徑無效。	Invalid saved caption path.
+RimTube.NoLocalCopyExistsForThisMediaType	尚無所選類型的本機副本，請先下載或切換為串流。	No local copy exists for this media type. Download it first or choose streaming.
+RimTube.UnknownSource	未知來源	Unknown source
+RimTube.SourceNotLoaded	來源未載入	Source not loaded
+RimTube.GameAsset	遊戲資產	Game asset
+RimTube.SavedMusicAndVideo	已保存音樂＋影片	Saved music and video
+RimTube.SavedVideo	已保存影片	Saved video
+RimTube.SavedMusic	已保存音樂	Saved music
+RimTube.OnlineSource	線上來源	Online source
+RimTube.LocalCopyMissing	缺少本機副本	Local copy missing
+RimTube.Live	直播	Live
+RimTube.Music	音樂	Music
+RimTube.NCategory	\n分類：	\nCategory: 
+RimTube.OriginalCombatTrack	 · 原曲戰鬥標記	 · Original combat track
+RimTube.UnsupportedInterfaceSettingsFormat	不支援的 UI 設定格式	Unsupported interface settings format
+RimTube.CouldNotReadInterfaceSettingsTheOriginalFile	介面設定讀取失敗，已保留原檔；本次使用預設外觀。	Could not read interface settings. The original file was preserved; default appearance is used for this session.
+RimTube.InvalidToolArguments	無效的工具參數。	Invalid tool arguments.
+RimTube.CouldNotStartTheExternalTool	無法啟動外部工具。	Could not start the external tool.
+RimTube.TheExternalToolTimedOutTryAgainLater	外部工具超時，可稍後重試。	The external tool timed out. Try again later.
+RimTube.EnterAValidYouTubeURL	請輸入有效的 YouTube 網址。	Enter a valid YouTube URL.
+RimTube.OnlyYouTubeAndYoutuBeURLsAreSupported	目前只接受 YouTube／youtu.be 網址。	Only YouTube and youtu.be URLs are supported.
+RimTube.TheURLContainsNoValidPlaylistID	網址未包含有效的播放清單 ID。	The URL contains no valid playlist ID.
+RimTube.TheURLContainsNoValidVideoID	網址未包含有效的影片 ID。	The URL contains no valid video ID.
+RimTube.TheLegacyYouTubeParserIsDisabledUseThe	舊版 YouTube 解析已停用；請使用選裝來源介面。	The legacy YouTube parser is disabled. Use the optional source adapter.
+RimTube.PermanentYouTubeDownloadsAreDisabledInThisLegacy	YouTube 永久下載不在本次實作範圍內。	Permanent YouTube downloads are disabled in this legacy entry point.
+RimTube.TheToolDidNotProducePlayableOGGAudio	工具未產生可播放的 OGG 音訊。	The tool did not produce playable OGG audio.
+RimTube.LocalAudioConversionFailed	本機音訊轉檔失敗：	Local audio conversion failed: 
+RimTube.UnknownError	未知錯誤	Unknown error
+RimTube.URL	[網址]	[URL]
+RimTube.PlaylistPreview	清單預覽：	Playlist preview: 
+RimTube.Changed	有變動	changed
+RimTube.Unchanged	未變動	unchanged
+RimTube.AddNewTracksFromSource	加入來源新增歌曲	Add new tracks from source
+RimTube.RemoveEntriesDeletedAtSourceKeepAudioFiles	移除來源已刪除的清單項目（音檔保留）	Remove entries deleted at source (keep audio files)
+RimTube.MatchSourceOrderKeepLocalExtrasAtThe	依來源順序排序（本地額外項目保留在尾端）	Match source order (keep local extras at the end)
+RimTube.OnlyPlaylistMetadataIsSavedYouTubeAudioIs	僅保存清單資訊，不下載 YouTube 音訊。	Only playlist metadata is saved; YouTube audio is not downloaded.
+RimTube.ApplyChanges	套用變更	Apply changes
+RimTube.ApplyAndPlay	套用並播放	Apply and play
+RimTube.TheLibraryChangedReadThePlaylistAgain	音樂庫已切換，請重新讀取歌單。	The library changed. Read the playlist again.
+RimTube.SwitchToTheMpvBackendForYouTubeStreaming	YouTube 串流請先切換為 mpv 後端；也可只套用變更保存歌單。	Switch to the mpv backend for YouTube streaming, or just apply changes to save the playlist.
+RimTube.WaitingMessage	等待處理	Waiting
+RimTube.TheLastSessionEndedBeforeCompletionRetryTo	上次遊戲未完成，按重試繼續。	The last session ended before completion. Retry to continue.
+RimTube.LegacyYouTubeDownloadJobsAreDisabledSourceMetadata	舊版 YouTube 下載工作已停用；來源資料保留。	Legacy YouTube download jobs are disabled. Source metadata was preserved.
+RimTube.CouldNotReadTheDownloadQueue	下載佇列讀取失敗：	Could not read the download queue: 
+RimTube.CreateDownloadsExplicitlyThroughYouTubeMediaOptionsThis	請透過 YouTube 媒體選項明確建立下載工作；此入口只處理本機匯入。	Create downloads explicitly through YouTube media options. This entry point only imports local files.
+RimTube.SelectAYouTubeTrack	請選擇 YouTube 曲目。	Select a YouTube track.
+RimTube.AlreadySavedDuplicateDownloadSkipped	已保存，略過重複下載	Already saved; duplicate download skipped
+RimTube.ThePlaylistWasRemoved	歌單已移除。	The playlist was removed.
+RimTube.Canceling	正在取消	Canceling
+RimTube.LegacyYouTubeDownloadJobsAreDisabledAndWill	舊版 YouTube 下載工作已停用，不會重新下載。	Legacy YouTube download jobs are disabled and will not restart.
+RimTube.WaitingToRetry	等待重試	Waiting to retry
+RimTube.TheTrackNoLongerExists	曲目已不存在	The track no longer exists
+RimTube.MediaSavedStartPlaybackManually	媒體已保存，請手動播放。	Media saved. Start playback manually.
+RimTube.PreparingMedia	準備媒體	Preparing media
+RimTube.YouTubeDownloadsAreDisabledInThisLegacyEntry	YouTube 永久下載未啟用。	YouTube downloads are disabled in this legacy entry point.
+RimTube.OriginalAudioNotFoundSelectTheFileAgain	找不到原始音訊，請重新選擇檔案。	Original audio not found. Select the file again.
+RimTube.TheAudioFileIsMissingOrEmpty	音訊檔案不存在或為空。	The audio file is missing or empty.
+RimTube.TheImportedTrackWasNotFound	找不到匯入曲目。	The imported track was not found.
+RimTube.Complete	已完成	Complete
+RimTube.MediaSavedButAutomaticPlaybackFailedStartIt	媒體已保存，但自動播放未成功，請手動播放。	Media saved, but automatic playback failed. Start it manually.
+RimTube.GameMusicBaseGameDLCActiveMods	遊戲音樂 · 原版／DLC／已啟用模組	Game music · Base game / DLC / active mods
+RimTube.PlaylistRemoved	歌單已移除	Playlist removed
+RimTube.OnlyMusicDefinitionsFromActiveContentAreListed	只列出已啟用內容的音樂定義；加入歌單或試聽不會下載、匯出遊戲資產。	Only music definitions from active content are listed. Adding or previewing tracks does not download or export game assets.
+RimTube.PasteAYouTubeVideoOrPlaylistURL	貼上 YouTube 單曲或歌單網址	Paste a YouTube video or playlist URL
+RimTube.BuildingCatalogSnapshot	正在建立目錄快照…	Building catalog snapshot…
+RimTube.NoMatchingTracksClearFiltersImportMediaOr	沒有符合條件的曲目。可清除篩選、匯入媒體，或到「遊戲音樂」選曲。	No matching tracks. Clear filters, import media, or browse Game Music.
+RimTube.TheTrackWasRemovedRefreshTheList	曲目已移除，請重新整理。	The track was removed. Refresh the list.
+RimTube.AddToLibrary	加入音樂庫	Add to library
+RimTube.AddTo	加入 	Add to 
+RimTube.MediaOptionsStreamDownloadQualityCaptions	媒體選項（串流／下載／畫質／字幕）	Media options (stream / download / quality / captions)
+RimTube.TrackDetails	歌曲資訊	Track details
+RimTube.RemoveFromThisPlaylistKeepFiles	從這份歌單移除（保留檔案）	Remove from this playlist (keep files)
+RimTube.MoveUpInPlaylist	在歌單上移	Move up in playlist
+RimTube.MoveDownInPlaylist	在歌單下移	Move down in playlist
+RimTube.DeleteSavedMusicCopy	刪除已保存的音樂副本…	Delete saved music copy…
+RimTube.DeleteOnlyRimTubeSSavedMusicCopyNPlaylists	只刪除 RimTube 保存的音樂副本？\n歌單、影片與原始匯入檔案保留。	Delete only RimTube's saved music copy?\nPlaylists, video and original imported files will be kept.
+RimTube.DeleteSavedVideoCopy	刪除已保存的影片副本…	Delete saved video copy…
+RimTube.DeleteOnlyRimTubeSSavedVideoCopyNPlaylists	只刪除 RimTube 保存的影片副本？\n歌單與音樂副本保留。	Delete only RimTube's saved video copy?\nPlaylists and music copies will be kept.
+RimTube.DownloadPlaylistSkipSavedCopies	下載整份歌單（略過已保存）	Download playlist (skip saved copies)
+RimTube.DeletePlaylistKeepTracksAndFiles	刪除歌單（保留曲目與檔案）…	Delete playlist (keep tracks and files)…
+RimTube.DeleteThisPlaylistTracksAndAllFilesWill	刪除此歌單？曲目及所有檔案保留。	Delete this playlist? Tracks and all files will be kept.
+RimTube.AssignAnotherEverydayCombatPlaylistFirst	請先指定其他日常／戰鬥清單。	Assign another everyday / combat playlist first.
+RimTube.DownloadPlaylist	下載整份歌單：	Download playlist: 
+RimTube.CaptionsUseLanguagesSuppliedByTheSourceLive	字幕只顯示來源提供的語言，沒有時不會憑空產生。直播使用串流，無法下載錄製或任意跳轉。隱藏畫面會繼續播放影音，停止播放才會釋放解碼資源。	Captions use languages supplied by the source. Live streams cannot be downloaded or freely seeked. Hiding the picture keeps audio and video playing; Stop releases decoding resources.
+RimTube.DeleteTheLocalMusicCopyPlaylistsAndVideo	刪除本機音樂副本？歌單與影片保留。	Delete the local music copy? Playlists and video will be kept.
+RimTube.DeleteTheLocalVideoCopyPlaylistsAndMusic	刪除本機影片副本？歌單與音樂保留。	Delete the local video copy? Playlists and music will be kept.
+RimTube.TheLibraryChangedOpenMediaOptionsAgain	音樂庫已切換，請重新開啟媒體選項。	The library changed. Open media options again.
+RimTube.SwitchToTheMpvBackendForVideo	影片請切換為 mpv 播放後端。	Switch to the mpv backend for video.
+RimTube.TooManyPlaybackOperationsTryAgainShortly	播放操作過多，請稍後重試。	Too many playback operations. Try again shortly.
+RimTube.SwitchToTheMpvBackendToPlayVideo	影片播放請切換為 mpv 後端。	Switch to the mpv backend to play video.
+RimTube.TheNativeBackendOnlySupportsImportedLocalAudio	本機播放後端僅支援已匯入的本機音訊，線上來源請使用 mpv。	The native backend only supports imported local audio. Use mpv for online sources.
+RimTube.TheLoadedGameTrackWasNotFoundCheck	找不到已載入的遊戲歌曲，請確認來源模組。	The loaded game track was not found. Check its source mod.
+RimTube.CouldNotDecodeTheLocalAudio	本機音訊無法解碼。	Could not decode the local audio.
+RimTube.PrepareLocalAudioFirst	請先準備本機音訊。	Prepare local audio first.
+RimTube.TheLibraryChangedOpenTheMenuAgain	音樂庫已切換，請重新開啟選單。	The library changed. Open the menu again.
+RimTube.DownloadImportJobsCurrentPlaybackContinuesAfterCompletion	下載／匯入工作 · 完成後不打斷目前播放	Download / import jobs · Current playback continues after completion
+RimTube.EnterAPlaylistName	請輸入歌單名稱。	Enter a playlist name.
+RimTube.RimTubeInitializationFailed	[RimTube] 初始化失敗：	[RimTube] Initialization failed: 
+RimTube.RimTubeMusicPlayerNOpenTheFullPlayerTo	RimTube 音樂播放器\n設定、播放工具與音樂庫管理請從完整播放器開啟。	RimTube music player\nOpen the full player to manage settings, playback tools and your library.
+RimTube.OpenPlayer	開啟播放器	Open player
+RimTube.MusicData	音樂資料：	Music data: 
+RimTube.RimTubeLibraryInitializationFailed	[RimTube] 音樂庫初始化失敗：	[RimTube] Library initialization failed: 
+RimTube.RimTubePlayerError	[RimTube] 播放器錯誤：	[RimTube] Player error: 
+RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube	開發版資料夾必須位於 RimTube 專案內。	Development data folders must be inside the RimTube project.
+RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA	開發版音樂庫不可使用目錄連結，請選專案內的一般資料夾。	Development libraries cannot use directory links. Choose a regular folder inside the project.
+RimTube.FinishMediaDeletionAndCompleteOrCancelImport	請先完成媒體刪除，並完成或取消匯入工作，再切換音樂庫。	Finish media deletion and complete or cancel import jobs before switching libraries.
+RimTube.TheOperationQueueIsBusyTryAgainShortly	操作佇列忙碌，請稍候。	The operation queue is busy. Try again shortly.
+RimTube.TheLibraryChangedTryTheOperationAgain	音樂庫已切換，請重新操作。	The library changed. Try the operation again.
+RimTube.LocalAudioNotFound	找不到本機音訊：	Local audio not found: 
+RimTube.ReadingYouTubePlaylist	正在讀取 YouTube 歌單，請稍候…	Reading YouTube playlist…
+RimTube.YouTubePlaylistLookupFailedCheckTheToolsAnd	YouTube 歌單查詢失敗，請確認工具及網路；原清單已保留。	YouTube playlist lookup failed. Check the tools and network; the original playlist was preserved.
+RimTube.SwitchToTheMpvBackendInSettingsFor	YouTube 串流請先在設定將播放後端切換為 mpv。	Switch to the mpv backend in Settings for YouTube streaming.
+RimTube.GettingYouTubeTrackInformation	正在取得 YouTube 歌曲資訊…	Getting YouTube track information…
+RimTube.TheTargetPlaylistWasRemovedAddTheTrack	目標清單已移除，請重新加入歌曲。	The target playlist was removed. Add the track again.
+RimTube.YouTubeLookupFailedCheckThePlaybackToolsAnd	YouTube 查詢失敗，請確認播放工具及網路。	YouTube lookup failed. Check the playback tools and network.
+RimTube.DownloadQueuedViewProgressOrCancelItIn	已加入下載工作；可在「匯入工作」查看進度或取消。	Download queued. View progress or cancel it in Import Jobs.
+RimTube.ThisMediaIsBeingDeletedPleaseWait	該媒體正在刪除，請稍候。	This media is being deleted. Please wait.
+RimTube.TheCurrentVideoChangedOrStoppedOpenThe	目前影片已切換或停止，請重新開啟畫質選單。	The current video changed or stopped. Open the quality menu again.
+RimTube.TheCurrentVideoChangedOrStoppedOpenCaption	目前影片已切換或停止，請重新開啟字幕選項。	The current video changed or stopped. Open caption options again.
+RimTube.ThisIsNotGameMusic	這不是遊戲音樂。	This is not game music.
+RimTube.AudioForThisSourceHasNotLoaded	此來源的音訊尚未載入。	Audio for this source has not loaded.
+RimTube.CompleteOrCancelThisVideoSDownloadFirst	請先完成或取消此影片的下載工作。	Complete or cancel this video's download first.
+RimTube.CompleteOrCancelThisTrackSDownloadImport	請先完成或取消該曲目的下載／匯入工作。	Complete or cancel this track's download / import jobs first.
+RimTube.WaitForTheCurrentMediaDeletionToFinish	請先等待目前的媒體刪除完成。	Wait for the current media deletion to finish.
+RimTube.TheSourceTrackHasNoValidVideoID	來源曲目缺少有效的影片 ID。	The source track has no valid video ID.
+RimTube.CancelThisTrackSDownloadFirst	請先取消此歌曲的下載工作。	Cancel this track's download first.
+RimTube.NYouTubeTracksUseYtDlpForResolutionAnd	\nYouTube 單曲使用 yt-dlp 解析及 mpv 串流；受限內容不會自動登入。	\nYouTube tracks use yt-dlp for resolution and mpv for streaming. Restricted content is not automatically logged in.
+RimTube.RimTubeSaveFailed	[RimTube] 儲存失敗：	[RimTube] Save failed: 
+RimTube.ShortcutsClickThenPressANewCombinationDisabled	快捷鍵 · 點擊後按下新組合鍵（輸入文字時停用）	Shortcuts · Click, then press a new combination (disabled while typing)
+RimTube.HiddenVideoContinuesAudioAndDecodingStopReleases	隱藏影片會繼續聲音及解碼；停止才釋放解碼資源。\n容量是已保存音訊與影片，不是 RAM 緩衝。移除歌單不刪檔案。\n遊戲音樂使用引擎已載入資產，不會下載或匯出。	Hidden video continues audio and decoding; Stop releases decoding resources.\nStorage shows saved audio and video, not RAM buffering. Removing playlists keeps files.\nGame music uses loaded engine assets without downloading or exporting them.
+RimTube.AllFourThemesShareTheSameControlsAutomatic	四套主題共用操作；本版沒有科技自動換膚或影片半透明。\nUI 效能與焦點、影片遮擋仍待遊戲驗收。	All four themes share the same controls. Automatic technology themes and translucent video are not included.\nUI performance, focus and video occlusion still require in-game acceptance testing.
+RimTube.BaseGameRimWorld	原版 RimWorld	Base game RimWorld
+RimTube.Mod	模組 · 	Mod · 
+RimTube.UpdatedBySourceMessage	已依來源更新	Updated by source
+RimTube.SourceNotLoadedPlaylistAndTrackReferencesPreserved	來源未載入；保留歌單與曲目引用	Source not loaded; playlist and track references preserved
+RimTube.TheGameMusicSourceIsDisabledOrRemoved	遊戲音樂來源未啟用或已移除。	The game music source is disabled or removed.
+RimTube.ThisGameTrackHasNoLoadedAudioCheck	此遊戲音樂沒有已載入的音訊，請確認 DLC／模組已啟用。	This game track has no loaded audio. Check that its DLC / mod is enabled.
+RimTube.UseTheGameMusicCatalog	請使用遊戲音樂目錄。	Use the game music catalog.
+RimTube.UsesLoadedGameMusicNoExternalToolsNeeded	使用遊戲已載入音樂，不需外部工具	Uses loaded game music; no external tools needed
+RimTube.UseStreamingForLiveContentUnlimitedRecordingJobs	直播請使用串流；不建立無限錄製工作。	Use streaming for live content. Unlimited recording jobs are not created.
+RimTube.MediaDownloadFailedExistingCopiesWerePreservedCheck	媒體下載失敗；原副本保留。請檢查來源、網路及 yt-dlp／FFmpeg 版本。	Media download failed; existing copies were preserved. Check the source, network and yt-dlp / FFmpeg versions.
+RimTube.TheDownloadDidNotProduceCompleteMediaExisting	下載未產生完整媒體，未變更原副本。	The download did not produce complete media. Existing copies were not changed.
+RimTube.LocalSourcesDoNotProvideOnlinePlaylists	本機來源不提供網路播放清單。	Local sources do not provide online playlists.
+RimTube.ImportedLocalAudioWasNotFoundImportIt	找不到已匯入的本機音訊，請重新匯入。	Imported local audio was not found. Import it again.
+RimTube.LocalMusicLibraryAvailable	本機音樂庫可用	Local music library available
+RimTube.ThePlaylistPreviewExpiredReadItAgainThe	歌單預覽已失效，請重新讀取；原清單已保留。	The playlist preview expired. Read it again; the original playlist was preserved.
+RimTube.ThisIsNotAYouTubeTrack	這不是 YouTube 曲目。	This is not a YouTube track.
+RimTube.FinishDownloadingFirstOrSelectStreaming	請先完成下載，或改選串流播放。	Finish downloading first, or select streaming.
+RimTube.SelectTheMpvBackendInSettingsForYouTube	YouTube 串流請在設定切換為 mpv 播放後端。	Select the mpv backend in Settings for YouTube streaming.
+RimTube.SetTheYtDlpExePathInSettings	請在設定指定 yt-dlp.exe，再重試歌單匯入。	Set the yt-dlp.exe path in Settings, then retry playlist import.
+RimTube.YouTubePlaylistLookupTimedOutTryAgainLater	YouTube 歌單查詢逾時，請稍後重試；原清單已保留。	YouTube playlist lookup timed out. Try again later; the original playlist was preserved.
+RimTube.CouldNotStartYtDlpCheckTheTool	無法啟動 yt-dlp，請檢查工具路徑。	Could not start yt-dlp. Check the tool path.
+RimTube.CouldNotReadTheYouTubePlaylistCheckPublic	無法讀取 YouTube 歌單，請確認連結可直接存取及網路正常；原清單已保留。	Could not read the YouTube playlist. Check public access and your network; the original playlist was preserved.
+RimTube.YouTubeReturnedIncompletePlaylistIdentificationOrContentThe	YouTube 回傳的歌單識別或內容不完整，原清單已保留。	YouTube returned incomplete playlist identification or content. The original playlist was preserved.
+RimTube.ThisPlaylistRequiresLoginOrHasAccessRestrictions	此歌單需要登入或受到存取限制，本版只讀取可直接存取的歌單。	This playlist requires login or has access restrictions. Only directly accessible playlists are supported.
+RimTube.YouTubePlaylistMessage	YouTube 清單	YouTube playlist
+RimTube.TheFullPlaylistWasReadAudioStreamsAre	已讀取完整歌單，播放時才取得音訊串流。	The full playlist was read. Audio streams are obtained only when played.
+RimTube.ThePlaylistContainsHiddenUnavailableEntriesSourceWarnings	歌單有隱藏／無法取得的項目、來源警告或超過 10000 首上限；可加入已讀取歌曲，保留原有項目與順序。	The playlist contains hidden / unavailable entries, source warnings, or exceeds 10,000 tracks. Retrieved tracks may be added; existing entries and order will be preserved.
+RimTube.SetTheYtDlpExePathInSettingsMessage	請在設定指定 yt-dlp.exe，再重試 YouTube 播放。	Set the yt-dlp.exe path in Settings, then retry YouTube playback.
+RimTube.TheConfiguredDenoExecutableWasNotFoundCorrect	找不到設定的 JavaScript 執行檔，請修正 JavaScript 工具路徑。	The configured JavaScript executable was not found. Correct the JavaScript runtime path.
+RimTube.YouTubeResolutionTimedOutCheckYourNetworkAnd	YouTube 解析逾時，請檢查網路後重試。	YouTube resolution timed out. Check your network and try again.
+RimTube.ThisYouTubeContentRequiresLoginOrHasAccess	此 YouTube 內容需要登入或受到存取限制，本版不讀取 Cookie 或繞過限制。	This YouTube content requires login or has access restrictions. Cookies and restriction bypasses are not used.
+RimTube.YouTubeSuppliedNoPlayablePublicAudioCheckThe	YouTube 未提供可播放的公開音訊，請檢查網址、網路，以及 yt-dlp／JavaScript 工具版本後重試。	YouTube supplied no playable public audio. Check the URL, network and yt-dlp / JavaScript runtime versions, then try again.
+RimTube.TheYouTubeToolReturnedIncompleteTrackInformationUpdate	YouTube 工具回傳的歌曲資訊不完整，請更新工具後重試。	The YouTube tool returned incomplete track information. Update it and try again.
+RimTube.TheResolvedYouTubeTrackDoesNotMatchThe	解析結果與要求的 YouTube 曲目不一致。	The resolved YouTube track does not match the requested track.
+RimTube.ThisLiveStreamPremiereHasNotStartedTry	此直播／首播尚未開始，請開始後重試。	This live stream / premiere has not started. Try again after it begins.
+RimTube.ThisYouTubeContentIsNotDirectlyAccessiblePublic	此 YouTube 內容不是可直接存取的公開音訊。	This YouTube content is not directly accessible public audio.
+RimTube.TheSourceProvidesNoSupportedSeparateAudioStream	來源未提供支援的獨立音訊串流。	The source provides no supported separate audio stream.
+RimTube.UnsupportedCaptionSourceURL	字幕來源網址不受支援。	Unsupported caption source URL.
+RimTube.TheSourceProvidesNoVideoForTheSelected	來源未提供所選畫質的影片。	The source provides no video for the selected quality.
+RimTube.TheSourceHasNoMediaLocation	來源沒有媒體位址。	The source has no media location.
+RimTube.TheYouTubeToolReturnedNoSupportedMediaLocation	YouTube 工具未回傳支援的媒體位址。	The YouTube tool returned no supported media location.
+RimTube.GameMusicMessage	遊戲音樂	Game music
+RimTube.LocalAudio	本機音訊	Local audio
+RimTube.Title	標題	Title
+RimTube.Category	分類	Category
+RimTube.UsesLoadedGameMusicDefinitionsGameAssetsAre	由遊戲已載入的音樂定義提供，不下載、不匯出或刪除遊戲資產。	Uses loaded game music definitions. Game assets are not downloaded, exported or deleted.
+RimTube.SourceSavedUseMediaOptionsToChooseStreaming	來源已保存；從媒體選項選擇串流／下載、音樂／影片、畫質及字幕。	Source saved. Use media options to choose streaming / download, audio / video, quality and captions.
+RimTube.LibraryCopiesWorkOfflineDeletingACopyDoes	音樂庫副本可離線使用；刪除副本不影響原始匯入檔案。	Library copies work offline. Deleting a copy does not affect the original imported file.
+RimTube.TheLibraryOrTrackChangedOpenThisWindow	音樂庫或曲目已變更，請重新開啟。	The library or track changed. Open this window again.
+RimTube.SetShortcut	設定快捷鍵：	Set shortcut: 
+RimTube.PressANewKeyCombinationEscCancelsBackspace	按下新的組合鍵。Esc 取消，Backspace 清除。\n請避開遊戲及其他模組的快捷鍵。	Press a new key combination. Esc cancels; Backspace clears.\nAvoid shortcuts used by the game or other mods.
+RimTube.ThisCombinationIsAlreadyAssignedToAnotherRimTube	此組合鍵已被 RimTube 的其他操作使用。	This combination is already assigned to another RimTube action.
+RimTube.Auto	 【自動】	 [Auto]
+RimTube.Everyday	 【日常】	 [Everyday]
+RimTube.Combat	 【戰鬥】	 [Combat]
+RimTube.LocalPlaylist	本機歌單	Local playlist
+RimTube.StorageNotCalculatedYet	容量尚未統計	Storage not calculated yet
+RimTube.PreparingMusicLibrary	準備音樂庫…	Preparing music library…
+RimTube.CatalogUpdateFailedPreviousResultsWereKeptTry	目錄更新失敗，保留上次結果；可按重新整理。	Catalog update failed. Previous results were kept; try refreshing.
+RimTube.StorageCalculationFailedTryRefreshing	容量統計失敗，可重新整理	Storage calculation failed; try refreshing
+RimTube.SavedAudioAndVideo	已保存音訊＋影片：	Saved audio and video: 
+RimTube.NoTrackSelected	尚未選擇曲目	No track selected
+RimTube.CombatMessage	戰鬥 · 	Combat · 
+RimTube.NNote	\n提示：	\nNote: 
+RimTube.CouldNotSaveInterfacePreferences	介面偏好儲存失敗：	Could not save interface preferences: 
+RimTube.StateIdle	待命	Idle
+RimTube.StateInitializing	初始化中	Initializing
+RimTube.StatePreparing	準備中	Preparing
+RimTube.StateReady	就緒	Ready
+RimTube.StateEnded	播放結束	Ended
+RimTube.StateDisposed	已關閉	Closed
+RimTube.SyncComplete	同步完成	Synchronized
+RimTube.SyncPartial	部分同步	Partial sync
+RimTube.SyncNever	尚未同步	Not synchronized
+RimTube.SyncAdapterRequired	需要來源介面	Source adapter required
+RimTube.ToolNotFound	找不到 {0}，請設定工具完整路徑。	Could not find {0}. Set the full tool path.
+RimTube.ToolAvailable	{0} 可用	{0} is available
+RimTube.ToolVersionFailed	{0} 版本檢查失敗	{0} version check failed
+RimTube.ToolStartFailed	{0} 無法啟動或檢查逾時，請確認工具路徑。	{0} could not start or timed out. Check the tool path.
+RimTube.ToolPathRequired	請在設定指定 {0} 的完整路徑。	In Settings, specify the full path to {0}.
+RimTube.PlaylistPreviewSummary	來源 {0} 首；新增 {1}，移除 {2}，順序{3}。\n移除只影響清單，不刪除音訊。重複影片合併為同一曲目。	Source: {0} tracks; added: {1}; removed: {2}; order: {3}.\nRemoving entries keeps audio files. Duplicate videos share one track.
+RimTube.BatchDownloadSummary	{0} 首，同時最多 {1} 首；之後優先本機副本，不打斷目前播放。可在匯入工作調整平行數、取消／重試。	{0} tracks, up to {1} downloads at once. Saved copies will be preferred. Adjust concurrency, cancel or retry in Import Jobs.
+RimTube.QualityLimitDetail	畫質上限：{0}p（來源沒有時選擇較低畫質）	Quality limit: {0}p (uses lower quality when unavailable)
+RimTube.BatchDownloadResult	新增 {0} 首、已保存略過 {1} 首、已排程 {2} 首；之後優先本機副本。	Added: {0}; already saved: {1}; queued: {2}. Saved copies will be preferred.
+RimTube.TrackCount	{0} 首	{0} tracks
+RimTube.PlayerFooter	後端：{0} · 下載／匯入中 {1} 首 · {2}	Backend: {0} · Downloading / importing: {1} · {2}
+RimTube.ConcurrentDownloadsDetail	平行下載：{0} 首（已有副本會略過）	Concurrent downloads: {0} (saved copies are skipped)
+RimTube.StreamBufferDetail	串流前向緩衝：{0} MiB；返回緩衝：{1} MiB	Stream forward buffer: {0} MiB; back buffer: {1} MiB
+RimTube.SourceUpdateMissing	已依來源更新 · {0} 首音訊未載入	Updated by source · {0} audio tracks not loaded
+RimTube.SourceLocalImport	本機匯入	Local import
+RimTube.UpdateNoticesInvalid	更新檔的授權告示缺漏或大小異常，已保留原本工具。	Update notices are missing or invalid. The current tool is unchanged.
+RimTube.UpdateTooLarge	更新檔超過允許大小，已保留原本工具。	The update exceeds the size limit. The current tool is unchanged.
+RimTube.UpdateChecksumInvalid	更新檔雜湊驗證失敗，已保留原本工具。	Update checksum verification failed. The current tool is unchanged.
+RimTube.UpdateVersionInvalid	更新工具版本與官方發行版本不符，已保留原本工具。	The executable version differs from the official release. The current tool is unchanged.
+RimTube.UpdateStoredInvalid	已有的更新檔已損壞，請先回復隨包版本。	An existing update is damaged. Restore the bundled version first.
+RimTube.UpdateReleaseInvalid	無法驗證官方穩定版本資訊，已保留原本工具。	Could not validate the official stable release. The current tool is unchanged.
+RimTube.UpdateApplied	解析核心設定已套用；自訂工具路徑仍優先。	Resolver selection applied. Custom tool overrides still take priority.
+RimTube.UpdateStopFirst	請先停止播放，並等候解析、下載與工具檢查完成。	Stop playback and wait for resolution, downloads and tool checks to finish first.
+RimTube.UpdateReverting	正在回復隨包解析核心…	Restoring the bundled resolver…
+RimTube.UpdateDownloading	正在下載並驗證官方解析核心與授權告示…	Downloading and verifying the official resolver and license notices…
+RimTube.UpdateReady	解析核心已準備好，停止播放後會自動套用。	Resolver is ready and will apply when playback stops.
+RimTube.UpdateCancelled	更新已取消，原本工具設定保留。	Update cancelled. The current tool selection is unchanged.
+RimTube.UpdateFailed	更新未完成：{0}	Update did not complete: {0}
+RimTube.UpdateWorking	解析核心處理中…	Resolver update in progress…
+RimTube.UpdateResolver	更新解析核心	Update resolver
+RimTube.RevertResolver	回復隨包版本	Restore bundled version
+RimTube.UpdateResolverHint	只在按下更新時連線到官方 GitHub。新版保存在遊戲使用者資料夾，驗證成功才切換；不覆寫工作坊檔案。自訂 yt-dlp 路徑仍優先，清空後可使用自動選擇。	Connects to official GitHub only when requested. Updates are saved in the game user-data folder and activated after verification, without overwriting Workshop files. A custom yt-dlp path takes priority; clear it to use automatic selection.
+RimTube.JsRuntime	JS 執行環境	JS runtime

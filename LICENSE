@@ -1,0 +1,84 @@
+RimTube Noncommercial Source-Available License 1.0
+
+Copyright (c) 2026 ANLN666 and the respective contributors.
+
+1. Scope and attribution
+
+This license applies to the original RimTube program code, build and development
+scripts, tests, project files, and mod definition files, unless a file states a
+different license. Preserve this license, the ANLN666 attribution, and all
+applicable copyright notices in source and binary redistributions. Identify
+modified versions and do not imply that ANLN666 endorses them.
+
+Art, textures, icons, promotional illustrations, screenshots, and prose or
+translation content are outside this license; see LICENSE-ASSETS.md. Third-party
+components and game assets are not relicensed by this license.
+
+2. Noncommercial permission
+
+Subject to these terms, you may inspect, use, reproduce, modify, build, and share
+the covered software, in source or binary form, for noncommercial purposes.
+You may submit fixes, translations, and other contributions. Private changes
+do not have to be published.
+
+Commercial purposes means use primarily intended for or directed toward
+commercial advantage or monetary compensation, except for the express
+exceptions in section 4. Without separate permission from the applicable rights
+holders, you must not sell or commercially license the software or modifications,
+charge for access to them, place them behind a mandatory paid membership or
+donation, sell repackaged copies, include the covered code or software in a paid
+bundle or commercial product or service, or otherwise commercially exploit the
+covered software or code. Distribution that is itself a commercial service or
+product is not made noncommercial merely by assigning a zero price to this mod.
+
+3. Sharing and modifications
+
+Copies and modifications you distribute must remain under this license and must
+retain its noncommercial restrictions and exceptions. Charge no access fee and
+add no terms that remove the permissions granted here. Do not remove attribution.
+If you distribute a modified version, state that it is modified and describe your
+changes. This license does not require you to publish private changes or all
+source code for a binary you distribute; any source you share remains subject to
+these terms. Rights in contributions remain with their respective authors.
+
+4. Gameplay media and voluntary support exceptions
+
+You may use RimTube during gameplay in monetized livestreams, videos, reviews,
+guides, and other commentary, including advertising revenue, sponsorships and
+viewer support, provided you are not selling, licensing, or gating access to the
+mod or its code. This permission does not grant rights to music, videos, game
+assets, or other third-party material played or shown using RimTube.
+
+You may accept genuinely optional donations or tips supporting your RimTube work
+or free distribution, provided the mod, modifications, code access and features
+you offer do not require payment, a paid subscription, or a donation. Advertising
+or other paid access to a mod distribution or commercial integration is not
+authorized merely by calling its proceeds donations.
+
+ANLN666 may distribute the official software free of charge through Steam
+Workshop and GitHub. You may use and participate in ordinary free hosting and
+collaboration facilities to exercise the permissions granted here; the fact that
+the hosting provider is a commercial company does not itself make your free
+noncommercial sharing prohibited.
+
+5. Separate components and reserved rights
+
+Third-party software retains its own licenses. No restriction here limits rights
+you receive separately under those licenses. This license grants only rights the
+applicable RimTube contributors hold; it grants no trademark, game-content,
+third-party media, or other unrelated rights. Rights not granted are reserved.
+Commercial use requires separate permission from the applicable rights holders.
+Submitting a contribution does not transfer ownership or authorize the project
+maintainer to commercially relicense that contribution without separate consent.
+
+6. Termination and disclaimer
+
+Permission under this license ends if you violate its terms. The software is
+provided "AS IS", without warranty of any kind, express or implied, including
+merchantability, fitness for a particular purpose, and noninfringement. To the
+extent permitted by law, the authors and contributors are not liable for claims,
+damages, or other liability arising from the software or its use.
+
+This is a custom noncommercial source-available license, not the MIT license,
+the GNU GPL, or an OSI-approved open-source license. English text controls;
+translated descriptions are explanatory summaries.

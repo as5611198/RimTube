@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimTube.DataOutsideMod>Keep the library outside the mod folder so mod updates cannot overwrite your data.</RimTube.DataOutsideMod>
+  <RimTube.AbsoluteDataPath>Choose an absolute folder path.</RimTube.AbsoluteDataPath>
+  <RimTube.LibraryTitle>RimTube · Media library</RimTube.LibraryTitle>
+  <RimTube.Initializing>Initializing player.</RimTube.Initializing>
+  <RimTube.Mini>Mini</RimTube.Mini>
+  <RimTube.Video>Video</RimTube.Video>
+  <RimTube.HideAll>Hide all</RimTube.HideAll>
+  <RimTube.Previous>Previous</RimTube.Previous>
+  <RimTube.PreviousShort>Prev</RimTube.PreviousShort>
+  <RimTube.Next>Next</RimTube.Next>
+  <RimTube.NextShort>Next</RimTube.NextShort>
+  <RimTube.Play>Play</RimTube.Play>
+  <RimTube.Pause>Pause</RimTube.Pause>
+  <RimTube.Stop>Stop</RimTube.Stop>
+  <RimTube.Mute>Mute</RimTube.Mute>
+  <RimTube.Unmute>Unmute</RimTube.Unmute>
+  <RimTube.SoundOn>Unmute</RimTube.SoundOn>
+  <RimTube.Volume>Volume</RimTube.Volume>
+  <RimTube.Ordered>In order</RimTube.Ordered>
+  <RimTube.Shuffle>Shuffle</RimTube.Shuffle>
+  <RimTube.RepeatOne>Repeat 1</RimTube.RepeatOne>
+  <RimTube.RepeatAll>Repeat all</RimTube.RepeatAll>
+  <RimTube.AllMedia>All media</RimTube.AllMedia>
+  <RimTube.GameMusic>Game music</RimTube.GameMusic>
+  <RimTube.Playlists>Playlists</RimTube.Playlists>
+  <RimTube.NewPlaylist>+ New playlist</RimTube.NewPlaylist>
+  <RimTube.Jobs>Downloads / imports</RimTube.Jobs>
+  <RimTube.Settings>Settings / appearance</RimTube.Settings>
+  <RimTube.Clear>Clear</RimTube.Clear>
+  <RimTube.Refresh>Refresh</RimTube.Refresh>
+  <RimTube.Refreshing>Updating…</RimTube.Refreshing>
+  <RimTube.PlaylistActions>Playlist actions</RimTube.PlaylistActions>
+  <RimTube.Search>Search</RimTube.Search>
+  <RimTube.Cancel>Cancel</RimTube.Cancel>
+  <RimTube.CancelResolve>Cancel lookup</RimTube.CancelResolve>
+  <RimTube.YouTubeMedia>YT media</RimTube.YouTubeMedia>
+  <RimTube.YouTubePlaylist>YT playlist</RimTube.YouTubePlaylist>
+  <RimTube.LocalImport>Import local</RimTube.LocalImport>
+  <RimTube.Add>Add</RimTube.Add>
+  <RimTube.More>More</RimTube.More>
+  <RimTube.Save>Save</RimTube.Save>
+  <RimTube.Close>Close</RimTube.Close>
+  <RimTube.Retry>Retry</RimTube.Retry>
+  <RimTube.Done>Complete</RimTube.Done>
+  <RimTube.Failed>Failed</RimTube.Failed>
+  <RimTube.Canceled>Canceled</RimTube.Canceled>
+  <RimTube.Interrupted>Interrupted</RimTube.Interrupted>
+  <RimTube.Waiting>Queued</RimTube.Waiting>
+  <RimTube.JobsActive>Downloading / importing</RimTube.JobsActive>
+  <RimTube.CreatingPlaylist>New playlist</RimTube.CreatingPlaylist>
+  <RimTube.RenamePlaylist>Rename playlist</RimTube.RenamePlaylist>
+  <RimTube.Rename>Rename</RimTube.Rename>
+  <RimTube.SetGeneral>Use as everyday music</RimTube.SetGeneral>
+  <RimTube.SetCombat>Use as combat music</RimTube.SetCombat>
+  <RimTube.RefreshSource>Refresh source playlist</RimTube.RefreshSource>
+  <RimTube.ManualSync>Sync source (preview first)</RimTube.ManualSync>
+  <RimTube.SourceAll>Source: all</RimTube.SourceAll>
+  <RimTube.SourceYouTube>Source: YouTube</RimTube.SourceYouTube>
+  <RimTube.SourceLocal>Source: local files</RimTube.SourceLocal>
+  <RimTube.SourceCore>Source: base game</RimTube.SourceCore>
+  <RimTube.SourceDlc>Source: DLC</RimTube.SourceDlc>
+  <RimTube.SourceMod>Source: mods</RimTube.SourceMod>
+  <RimTube.StorageAll>Storage: all</RimTube.StorageAll>
+  <RimTube.StorageSaved>Storage: saved copies</RimTube.StorageSaved>
+  <RimTube.StorageRemote>Storage: online only</RimTube.StorageRemote>
+  <RimTube.StorageMissing>Status: missing source / file</RimTube.StorageMissing>
+  <RimTube.TypeAll>Type: all</RimTube.TypeAll>
+  <RimTube.TypeMusic>Type: music</RimTube.TypeMusic>
+  <RimTube.TypeVideo>Type: video</RimTube.TypeVideo>
+  <RimTube.TypeLive>Type: live</RimTube.TypeLive>
+  <RimTube.Library>Library</RimTube.Library>
+  <RimTube.AudioOnly>Audio only</RimTube.AudioOnly>
+  <RimTube.Restore>Restore</RimTube.Restore>
+  <RimTube.Maximize>Maximize</RimTube.Maximize>
+  <RimTube.Options>Options</RimTube.Options>
+  <RimTube.Quality>Quality</RimTube.Quality>
+  <RimTube.QualityPrefix>Quality </RimTube.QualityPrefix>
+  <RimTube.Hide>Hide</RimTube.Hide>
+  <RimTube.LockThrough>Lock overlay</RimTube.LockThrough>
+  <RimTube.SubtitleOptions>Subtitle options</RimTube.SubtitleOptions>
+  <RimTube.SubtitleOff>Turn off subtitles</RimTube.SubtitleOff>
+  <RimTube.SubtitleLanguage>Subtitle language</RimTube.SubtitleLanguage>
+  <RimTube.SelectLanguage>Languages</RimTube.SelectLanguage>
+  <RimTube.ManualCaption> · manual captions</RimTube.ManualCaption>
+  <RimTube.AutoCaption> · source auto captions</RimTube.AutoCaption>
+  <RimTube.SourceCaption> · source captions</RimTube.SourceCaption>
+  <RimTube.CaptionLoading>Fetching video details and caption languages…</RimTube.CaptionLoading>
+  <RimTube.CaptionLookupFailed>Cannot fetch caption languages. Check the URL and tool settings.</RimTube.CaptionLookupFailed>
+  <RimTube.CaptionRetry>Caption lookup failed. Reopen this window to retry.</RimTube.CaptionRetry>
+  <RimTube.PlayerChanged>The player changed. Reopen this window.</RimTube.PlayerChanged>
+  <RimTube.NoCaptions>This source has no available captions.</RimTube.NoCaptions>
+  <RimTube.CaptionToggleHint>CC: bright when on, dim when off. Opens caption options if no track is loaded.</RimTube.CaptionToggleHint>
+  <RimTube.CaptionFooter>CC toggles captions instantly. Changing language reloads the stream and keeps your position and saved copies.</RimTube.CaptionFooter>
+  <RimTube.CaptionFallback>Allow source auto captions when manual captions are unavailable</RimTube.CaptionFallback>
+  <RimTube.CaptionDefaults>Default captions for new media · global preference</RimTube.CaptionDefaults>
+  <RimTube.CaptionDefaultPrefix>Default captions: </RimTube.CaptionDefaultPrefix>
+  <RimTube.NoAutoSelection>Off</RimTube.NoAutoSelection>
+  <RimTube.NoAutoCaptions>Do not select captions automatically</RimTube.NoAutoCaptions>
+  <RimTube.DefaultCaptionFallback>Allow source auto captions by default when manual captions are unavailable</RimTube.DefaultCaptionFallback>
+  <RimTube.YouTubeOptions>YouTube media options</RimTube.YouTubeOptions>
+  <RimTube.ContentPrefix>Content: </RimTube.ContentPrefix>
+  <RimTube.VideoAndAudio>Video and audio</RimTube.VideoAndAudio>
+  <RimTube.MusicOnly>Audio only</RimTube.MusicOnly>
+  <RimTube.StreamNow>Stream now</RimTube.StreamNow>
+  <RimTube.DownloadPlay>Download, then play</RimTube.DownloadPlay>
+  <RimTube.DownloadOnly>Download only</RimTube.DownloadOnly>
+  <RimTube.PreferSaved>Play saved copy first</RimTube.PreferSaved>
+  <RimTube.DeleteAudio>Delete audio copy</RimTube.DeleteAudio>
+  <RimTube.DeleteVideo>Delete video copy</RimTube.DeleteVideo>
+  <RimTube.DownloadQueue>Add to download queue</RimTube.DownloadQueue>
+  <RimTube.UiPreferences>Interface and controls · global preferences</RimTube.UiPreferences>
+  <RimTube.ThemePrefix>Theme: </RimTube.ThemePrefix>
+  <RimTube.ShowMini>Show mini player (collapsed while library or video is open)</RimTube.ShowMini>
+  <RimTube.SnapMini>Snap mini player to screen edges</RimTube.SnapMini>
+  <RimTube.FadeMini>Fade mini player when idle</RimTube.FadeMini>
+  <RimTube.LockMini>Lock mini player and pass clicks through (use restore hotkey to unlock)</RimTube.LockMini>
+  <RimTube.KeepAspect>Keep source aspect ratio (16:9 while unknown)</RimTube.KeepAspect>
+  <RimTube.MiniOpacity>Mini player opacity</RimTube.MiniOpacity>
+  <RimTube.RestoreMini>Restore / unlock mini player</RimTube.RestoreMini>
+  <RimTube.ResetWindows>Reset window positions</RimTube.ResetWindows>
+  <RimTube.ColonySettings>Colony playback settings · saved with the game</RimTube.ColonySettings>
+  <RimTube.CombatPrefix>During combat: </RimTube.CombatPrefix>
+  <RimTube.GeneralListPrefix>Everyday playlist: </RimTube.GeneralListPrefix>
+  <RimTube.CombatListPrefix>Combat playlist: </RimTube.CombatListPrefix>
+  <RimTube.Unassigned>Not assigned</RimTube.Unassigned>
+  <RimTube.PauseWithGame>Pause music when the game is paused</RimTube.PauseWithGame>
+  <RimTube.CoverPause>When covered: hide and pause, resume on return</RimTube.CoverPause>
+  <RimTube.CoverContinue>When covered: keep video and audio playing</RimTube.CoverContinue>
+  <RimTube.CoverPauseChoice>Hide and pause; resume on return</RimTube.CoverPauseChoice>
+  <RimTube.CoverContinueChoice>Keep video and audio playing</RimTube.CoverContinueChoice>
+  <RimTube.MediaTools>Media and tools · library settings</RimTube.MediaTools>
+  <RimTube.SwitchFolder>Switch folder</RimTube.SwitchFolder>
+  <RimTube.RefreshStorage>Refresh storage / status</RimTube.RefreshStorage>
+  <RimTube.ApplySettings>Save and apply playback settings</RimTube.ApplySettings>
+  <RimTube.CheckTools>Check tool versions</RimTube.CheckTools>
+  <RimTube.NativeBackend>Native local audio</RimTube.NativeBackend>
+  <RimTube.BackendNative>Backend: native local audio</RimTube.BackendNative>
+  <RimTube.BackendMpv>Backend: mpv</RimTube.BackendMpv>
+  <RimTube.VanillaBattle>Vanilla combat music</RimTube.VanillaBattle>
+  <RimTube.CustomBattle>Custom combat playlist</RimTube.CustomBattle>
+  <RimTube.ContinueBattle>Continue current music</RimTube.ContinueBattle>
+  <RimTube.HotkeyPanel>Toggle media library</RimTube.HotkeyPanel>
+  <RimTube.HotkeyPlay>Play / pause</RimTube.HotkeyPlay>
+  <RimTube.HotkeyRestore>Restore and unlock mini player</RimTube.HotkeyRestore>
+  <RimTube.HotkeyLock>Toggle mini player click-through</RimTube.HotkeyLock>
+  <RimTube.NotSet>Not set</RimTube.NotSet>
+  <RimTube.Rust>Rust and scrap</RimTube.Rust>
+  <RimTube.RustFlavor>Colony radio</RimTube.RustFlavor>
+  <RimTube.Glitter>Glitterworld</RimTube.Glitter>
+  <RimTube.GlitterFlavor>Interstellar signal</RimTube.GlitterFlavor>
+  <RimTube.Medieval>Medieval fantasy</RimTube.Medieval>
+  <RimTube.MedievalFlavor>The bard's songbook</RimTube.MedievalFlavor>
+  <RimTube.Tribal>Tribal</RimTube.Tribal>
+  <RimTube.TribalFlavor>Ancestral echoes</RimTube.TribalFlavor>
+  <RimTube.CaptionAvailable>Available captions: {0} manual, {1} auto. No captions load until selected.</RimTube.CaptionAvailable>
+  <RimTube.Less>Less</RimTube.Less>
+  <RimTube.VideoControlsHint>Expand or collapse volume, caption and quality controls. The timeline remains available.</RimTube.VideoControlsHint>
+  <RimTube.SeekHint>Click or drag to preview a position, then release to seek. Esc cancels.</RimTube.SeekHint>
+  <RimTube.LiveSeekHint>Live stream. Seeking is unavailable.</RimTube.LiveSeekHint>
+  <RimTube.SeekUnavailable>Seeking is currently unavailable.</RimTube.SeekUnavailable>
+  <RimTube.QualityHint>Change the stream quality limit. Lower quality is used if needed. Videos keep their position; live streams reconnect to the live feed. Reloading takes a moment.</RimTube.QualityHint>
+  <RimTube.VideoCovered>Video hidden and paused. Close the covering window to resume.</RimTube.VideoCovered>
+  <RimTube.VideoUnavailable>The embedded video surface is unavailable. The backend may use a separate window.</RimTube.VideoUnavailable>
+  <RimTube.AllMusic>All music</RimTube.AllMusic>
+  <RimTube.AllVideos>All videos</RimTube.AllVideos>
+  <RimTube.MusicLibraryHeading>Music library · All added music</RimTube.MusicLibraryHeading>
+  <RimTube.VideoLibraryHeading>Video library · Streams and downloads</RimTube.VideoLibraryHeading>
+  <RimTube.SubtitleSize>Subtitle size: {0}%</RimTube.SubtitleSize>
+  <RimTube.SubtitleSizeHint>Resize captions immediately without reloading the video. Try 150%–250% for a small window. This preference is saved.</RimTube.SubtitleSizeHint>
+  <RimTube.RemoveMedia>Delete from library, including saved files…</RimTube.RemoveMedia>
+  <RimTube.RemoveMediaConfirm>Delete “{0}” from the library and all playlists, including audio, video and captions saved by RimTube?
+Original import sources, game assets and files still shared by other tracks are kept.</RimTube.RemoveMediaConfirm>
+  <RimTube.RemovingMedia>Waiting for the player to release files before deleting media…</RimTube.RemovingMedia>
+  <RimTube.NewPlaylistMessage>New playlist</RimTube.NewPlaylistMessage>
+  <RimTube.CouldNotReadTheLibraryOriginalFilesAre>Could not read the library. Original files are protected; back up and repair the library, or choose another folder.</RimTube.CouldNotReadTheLibraryOriginalFilesAre>
+  <RimTube.EverydayMusic>Everyday music</RimTube.EverydayMusic>
+  <RimTube.CombatMusic>Combat music</RimTube.CombatMusic>
+  <RimTube.AnotherGameProcessIsUsingThisLibraryOpened>Another game process is using this library. Opened read-only to protect your playlists.</RimTube.AnotherGameProcessIsUsingThisLibraryOpened>
+  <RimTube.TheAudioFilenameContainsADisallowedPath>The audio filename contains a disallowed path.</RimTube.TheAudioFilenameContainsADisallowedPath>
+  <RimTube.TheTargetPlaylistWasRemoved>The target playlist was removed.</RimTube.TheTargetPlaylistWasRemoved>
+  <RimTube.ImportMedia>Import media</RimTube.ImportMedia>
+  <RimTube.SelectAPlaylistFirst>Select a playlist first.</RimTube.SelectAPlaylistFirst>
+  <RimTube.AutomaticSourcePlaylistsAreManagedByTheGame>Automatic source playlists are managed by the game music catalog. Add tracks to a custom playlist instead.</RimTube.AutomaticSourcePlaylistsAreManagedByTheGame>
+  <RimTube.SynchronizationComplete>Synchronization complete</RimTube.SynchronizationComplete>
+  <RimTube.OnlyPartialResultsWereRetrievedExistingTracksAnd>Only partial results were retrieved; existing tracks and order were preserved</RimTube.OnlyPartialResultsWereRetrievedExistingTracksAnd>
+  <RimTube.TheAudioWasDeletedDownloadOrImportIt>The audio was deleted. Download or import it again.</RimTube.TheAudioWasDeletedDownloadOrImportIt>
+  <RimTube.UnsupportedLibraryFormat>Unsupported library format.</RimTube.UnsupportedLibraryFormat>
+  <RimTube.TheTrackHasNoID>The track has no ID.</RimTube.TheTrackHasNoID>
+  <RimTube.InvalidPlaylistID>Invalid playlist ID.</RimTube.InvalidPlaylistID>
+  <RimTube.TheQualityLimitMustBeBetween144pAnd>The quality limit must be between 144p and 4320p.</RimTube.TheQualityLimitMustBeBetween144pAnd>
+  <RimTube.EnterACaptionLanguageCodeSuchAsZh>Enter a caption language code such as zh-TW, zh-Hans, en, or off.</RimTube.EnterACaptionLanguageCodeSuchAsZh>
+  <RimTube.UnsupportedMediaAcquisitionMode>Unsupported media acquisition mode.</RimTube.UnsupportedMediaAcquisitionMode>
+  <RimTube.TheSourceContainsInvalidPlaybackHeaders>The source contains invalid playback headers.</RimTube.TheSourceContainsInvalidPlaybackHeaders>
+  <RimTube.ThisSourceHasNotBeenApprovedForThis>This source has not been approved for this playback session. No media was opened.</RimTube.ThisSourceHasNotBeenApprovedForThis>
+  <RimTube.ThePlaybackSourceHasExpiredPrepareItAgain>The playback source has expired. Prepare it again.</RimTube.ThePlaybackSourceHasExpiredPrepareItAgain>
+  <RimTube.ThePlaybackSourceIsMissing>The playback source is missing.</RimTube.ThePlaybackSourceIsMissing>
+  <RimTube.InvalidGameMusicSession>Invalid game music session.</RimTube.InvalidGameMusicSession>
+  <RimTube.UnsupportedNetworkMediaProtocol>Unsupported network media protocol.</RimTube.UnsupportedNetworkMediaProtocol>
+  <RimTube.InvalidLocalSupplementaryMediaPath>Invalid local supplementary media path.</RimTube.InvalidLocalSupplementaryMediaPath>
+  <RimTube.InvalidSupplementaryMediaURL>Invalid supplementary media URL.</RimTube.InvalidSupplementaryMediaURL>
+  <RimTube.TheAdapterForThisMusicSourceIsNot>The adapter for this music source is not installed.</RimTube.TheAdapterForThisMusicSourceIsNot>
+  <RimTube.CouldNotIdentifyThisSource>Could not identify this source.</RimTube.CouldNotIdentifyThisSource>
+  <RimTube.GameMusicAssetsCannotBeDeletedFromThe>Game music assets cannot be deleted from the library.</RimTube.GameMusicAssetsCannotBeDeletedFromThe>
+  <RimTube.TheMediaPathIsOutsideTheLibrary>The media path is outside the library.</RimTube.TheMediaPathIsOutsideTheLibrary>
+  <RimTube.MediaDeletionCannotTraverseDirectoryOrFileLinks>Media deletion cannot traverse directory or file links.</RimTube.MediaDeletionCannotTraverseDirectoryOrFileLinks>
+  <RimTube.MpvIsNotConfiguredOrItsVersionCheck>mpv is not configured or its version check failed. Set the mpv.exe path, or use the native backend for local audio.</RimTube.MpvIsNotConfiguredOrItsVersionCheck>
+  <RimTube.CouldNotConnectToMpvCheckTheTool>Could not connect to mpv. Check the tool version and path.</RimTube.CouldNotConnectToMpvCheckTheTool>
+  <RimTube.LocalAudioWasNotFound>Local audio was not found.</RimTube.LocalAudioWasNotFound>
+  <RimTube.CouldNotOpenTheAudioCheckItsFormat>Could not open the audio. Check its format and source.</RimTube.CouldNotOpenTheAudioCheckItsFormat>
+  <RimTube.InvalidPlaybackPosition>Invalid playback position.</RimTube.InvalidPlaybackPosition>
+  <RimTube.InvalidVolume>Invalid volume.</RimTube.InvalidVolume>
+  <RimTube.UnsupportedDiagnosticProperty>Unsupported diagnostic property.</RimTube.UnsupportedDiagnosticProperty>
+  <RimTube.InvalidCaptionSize>Invalid caption size.</RimTube.InvalidCaptionSize>
+  <RimTube.MpvCouldNotCompleteTheOperationCheckThe>mpv could not complete the operation. Check the audio source.</RimTube.MpvCouldNotCompleteTheOperationCheckThe>
+  <RimTube.MpvTimedOutStopPlaybackAndTryAgain>mpv timed out. Stop playback and try again.</RimTube.MpvTimedOutStopPlaybackAndTryAgain>
+  <RimTube.DisconnectedFromMpvStartPlaybackAgain>Disconnected from mpv. Start playback again.</RimTube.DisconnectedFromMpvStartPlaybackAgain>
+  <RimTube.AudioPreparationTimedOutTryAgainOrChoose>Audio preparation timed out. Try again or choose another source.</RimTube.AudioPreparationTimedOutTryAgainOrChoose>
+  <RimTube.MpvExitedOrDisconnectedCheckTheToolAnd>mpv exited or disconnected. Check the tool and start playback again.</RimTube.MpvExitedOrDisconnectedCheckTheToolAnd>
+  <RimTube.DisconnectedFromMpv>Disconnected from mpv.</RimTube.DisconnectedFromMpv>
+  <RimTube.TheAudioCannotBeDecodedOrItsSource>The audio cannot be decoded or its source is unavailable.</RimTube.TheAudioCannotBeDecodedOrItsSource>
+  <RimTube.CouldNotProtectThePlayerProcessMpvWas>Could not protect the player process. mpv was not started.</RimTube.CouldNotProtectThePlayerProcessMpvWas>
+  <RimTube.CouldNotStartOrProtectTheMpvChild>Could not start or protect the mpv child process.</RimTube.CouldNotStartOrProtectTheMpvChild>
+  <RimTube.Stopped>Stopped</RimTube.Stopped>
+  <RimTube.Stopping>Stopping</RimTube.Stopping>
+  <RimTube.ThisSourceDoesNotSupportSeeking>This source does not support seeking.</RimTube.ThisSourceDoesNotSupportSeeking>
+  <RimTube.ThePlayerIsBusyTrySeekingAgainShortly>The player is busy. Try seeking again shortly.</RimTube.ThePlayerIsBusyTrySeekingAgainShortly>
+  <RimTube.CombatVanillaMusic>Combat: vanilla music</RimTube.CombatVanillaMusic>
+  <RimTube.VideoCoveredAutomaticallyPaused>Video covered: automatically paused</RimTube.VideoCoveredAutomaticallyPaused>
+  <RimTube.Paused>Paused</RimTube.Paused>
+  <RimTube.TheSourceExpiredPreparingItAgain>The source expired. Preparing it again.</RimTube.TheSourceExpiredPreparingItAgain>
+  <RimTube.NoPlayableSourcesInThePlaylist>No playable sources in the playlist</RimTube.NoPlayableSourcesInThePlaylist>
+  <RimTube.ThePlaybackBackendDisconnectedCheckTheToolsAnd>The playback backend disconnected. Check the tools and try again.</RimTube.ThePlaybackBackendDisconnectedCheckTheToolsAnd>
+  <RimTube.Buffering>Buffering</RimTube.Buffering>
+  <RimTube.PlayingCombatPlaylist>Playing combat playlist</RimTube.PlayingCombatPlaylist>
+  <RimTube.Playing>Playing</RimTube.Playing>
+  <RimTube.PreparingPlaybackSource>Preparing playback source</RimTube.PreparingPlaybackSource>
+  <RimTube.PlaybackFailedCheckTheSourceAndPlaybackTools>Playback failed. Check the source and playback tools.</RimTube.PlaybackFailedCheckTheSourceAndPlaybackTools>
+  <RimTube.TheSourcePreviewIsIncompleteAndHasNo>The source preview is incomplete and has no tracks to apply. Query it again.</RimTube.TheSourcePreviewIsIncompleteAndHasNo>
+  <RimTube.TheTargetPlaylistWasRemovedQueryItAgain>The target playlist was removed. Query it again.</RimTube.TheTargetPlaylistWasRemovedQueryItAgain>
+  <RimTube.ThePlaylistSourceChangedQueryItAgain>The playlist source changed. Query it again.</RimTube.ThePlaylistSourceChangedQueryItAgain>
+  <RimTube.ThisSourceDoesNotSupportOnlinePlaylistEnumeration>This source does not support online playlist enumeration.</RimTube.ThisSourceDoesNotSupportOnlinePlaylistEnumeration>
+  <RimTube.TheSourceReturnedTheSamePageAgainSynchronization>The source returned the same page again. Synchronization stopped; the original playlist was preserved.</RimTube.TheSourceReturnedTheSamePageAgainSynchronization>
+  <RimTube.TheSourceReturnedAnIncompletePlaylist>The source returned an incomplete playlist.</RimTube.TheSourceReturnedAnIncompletePlaylist>
+  <RimTube.TheSourcePlaylistIdentityChangedSynchronizationStopped>The source playlist identity changed. Synchronization stopped.</RimTube.TheSourcePlaylistIdentityChangedSynchronizationStopped>
+  <RimTube.ThePreviewLimitWasReachedTheOriginalPlaylist>The preview limit was reached. The original playlist was preserved; removals and ordering were not applied.</RimTube.ThePreviewLimitWasReachedTheOriginalPlaylist>
+  <RimTube.SomeSourceEntriesAreUnavailableExistingTracksAnd>Some source entries are unavailable. Existing tracks and order were preserved.</RimTube.SomeSourceEntriesAreUnavailableExistingTracksAnd>
+  <RimTube.TheCompletePlaylistIsReadyYouCanPreview>The complete playlist is ready. You can preview synchronization changes.</RimTube.TheCompletePlaylistIsReadyYouCanPreview>
+  <RimTube.TheSourceOmittedTheNextPageTheOriginal>The source omitted the next page. The original playlist was preserved.</RimTube.TheSourceOmittedTheNextPageTheOriginal>
+  <RimTube.TooManySourcePagesEnumerationStoppedTheOriginal>Too many source pages. Enumeration stopped; the original playlist was preserved.</RimTube.TooManySourcePagesEnumerationStoppedTheOriginal>
+  <RimTube.ThePlaylistSourceDisconnectedTheOriginalPlaylistWas>The playlist source disconnected. The original playlist was preserved; the preview contains partial results.</RimTube.ThePlaylistSourceDisconnectedTheOriginalPlaylistWas>
+  <RimTube.InvalidSavedMediaPath>Invalid saved media path.</RimTube.InvalidSavedMediaPath>
+  <RimTube.InvalidSavedCaptionPath>Invalid saved caption path.</RimTube.InvalidSavedCaptionPath>
+  <RimTube.NoLocalCopyExistsForThisMediaType>No local copy exists for this media type. Download it first or choose streaming.</RimTube.NoLocalCopyExistsForThisMediaType>
+  <RimTube.UnknownSource>Unknown source</RimTube.UnknownSource>
+  <RimTube.SourceNotLoaded>Source not loaded</RimTube.SourceNotLoaded>
+  <RimTube.GameAsset>Game asset</RimTube.GameAsset>
+  <RimTube.SavedMusicAndVideo>Saved music and video</RimTube.SavedMusicAndVideo>
+  <RimTube.SavedVideo>Saved video</RimTube.SavedVideo>
+  <RimTube.SavedMusic>Saved music</RimTube.SavedMusic>
+  <RimTube.OnlineSource>Online source</RimTube.OnlineSource>
+  <RimTube.LocalCopyMissing>Local copy missing</RimTube.LocalCopyMissing>
+  <RimTube.Live>Live</RimTube.Live>
+  <RimTube.Music>Music</RimTube.Music>
+  <RimTube.NCategory>
+Category: </RimTube.NCategory>
+  <RimTube.OriginalCombatTrack> · Original combat track</RimTube.OriginalCombatTrack>
+  <RimTube.UnsupportedInterfaceSettingsFormat>Unsupported interface settings format</RimTube.UnsupportedInterfaceSettingsFormat>
+  <RimTube.CouldNotReadInterfaceSettingsTheOriginalFile>Could not read interface settings. The original file was preserved; default appearance is used for this session.</RimTube.CouldNotReadInterfaceSettingsTheOriginalFile>
+  <RimTube.InvalidToolArguments>Invalid tool arguments.</RimTube.InvalidToolArguments>
+  <RimTube.CouldNotStartTheExternalTool>Could not start the external tool.</RimTube.CouldNotStartTheExternalTool>
+  <RimTube.TheExternalToolTimedOutTryAgainLater>The external tool timed out. Try again later.</RimTube.TheExternalToolTimedOutTryAgainLater>
+  <RimTube.EnterAValidYouTubeURL>Enter a valid YouTube URL.</RimTube.EnterAValidYouTubeURL>
+  <RimTube.OnlyYouTubeAndYoutuBeURLsAreSupported>Only YouTube and youtu.be URLs are supported.</RimTube.OnlyYouTubeAndYoutuBeURLsAreSupported>
+  <RimTube.TheURLContainsNoValidPlaylistID>The URL contains no valid playlist ID.</RimTube.TheURLContainsNoValidPlaylistID>
+  <RimTube.TheURLContainsNoValidVideoID>The URL contains no valid video ID.</RimTube.TheURLContainsNoValidVideoID>
+  <RimTube.TheLegacyYouTubeParserIsDisabledUseThe>The legacy YouTube parser is disabled. Use the optional source adapter.</RimTube.TheLegacyYouTubeParserIsDisabledUseThe>
+  <RimTube.PermanentYouTubeDownloadsAreDisabledInThisLegacy>Permanent YouTube downloads are disabled in this legacy entry point.</RimTube.PermanentYouTubeDownloadsAreDisabledInThisLegacy>
+  <RimTube.TheToolDidNotProducePlayableOGGAudio>The tool did not produce playable OGG audio.</RimTube.TheToolDidNotProducePlayableOGGAudio>
+  <RimTube.LocalAudioConversionFailed>Local audio conversion failed: </RimTube.LocalAudioConversionFailed>
+  <RimTube.UnknownError>Unknown error</RimTube.UnknownError>
+  <RimTube.URL>[URL]</RimTube.URL>
+  <RimTube.PlaylistPreview>Playlist preview: </RimTube.PlaylistPreview>
+  <RimTube.Changed>changed</RimTube.Changed>
+  <RimTube.Unchanged>unchanged</RimTube.Unchanged>
+  <RimTube.AddNewTracksFromSource>Add new tracks from source</RimTube.AddNewTracksFromSource>
+  <RimTube.RemoveEntriesDeletedAtSourceKeepAudioFiles>Remove entries deleted at source (keep audio files)</RimTube.RemoveEntriesDeletedAtSourceKeepAudioFiles>
+  <RimTube.MatchSourceOrderKeepLocalExtrasAtThe>Match source order (keep local extras at the end)</RimTube.MatchSourceOrderKeepLocalExtrasAtThe>
+  <RimTube.OnlyPlaylistMetadataIsSavedYouTubeAudioIs>Only playlist metadata is saved; YouTube audio is not downloaded.</RimTube.OnlyPlaylistMetadataIsSavedYouTubeAudioIs>
+  <RimTube.ApplyChanges>Apply changes</RimTube.ApplyChanges>
+  <RimTube.ApplyAndPlay>Apply and play</RimTube.ApplyAndPlay>
+  <RimTube.TheLibraryChangedReadThePlaylistAgain>The library changed. Read the playlist again.</RimTube.TheLibraryChangedReadThePlaylistAgain>
+  <RimTube.SwitchToTheMpvBackendForYouTubeStreaming>Switch to the mpv backend for YouTube streaming, or just apply changes to save the playlist.</RimTube.SwitchToTheMpvBackendForYouTubeStreaming>
+  <RimTube.WaitingMessage>Waiting</RimTube.WaitingMessage>
+  <RimTube.TheLastSessionEndedBeforeCompletionRetryTo>The last session ended before completion. Retry to continue.</RimTube.TheLastSessionEndedBeforeCompletionRetryTo>
+  <RimTube.LegacyYouTubeDownloadJobsAreDisabledSourceMetadata>Legacy YouTube download jobs are disabled. Source metadata was preserved.</RimTube.LegacyYouTubeDownloadJobsAreDisabledSourceMetadata>
+  <RimTube.CouldNotReadTheDownloadQueue>Could not read the download queue: </RimTube.CouldNotReadTheDownloadQueue>
+  <RimTube.CreateDownloadsExplicitlyThroughYouTubeMediaOptionsThis>Create downloads explicitly through YouTube media options. This entry point only imports local files.</RimTube.CreateDownloadsExplicitlyThroughYouTubeMediaOptionsThis>
+  <RimTube.SelectAYouTubeTrack>Select a YouTube track.</RimTube.SelectAYouTubeTrack>
+  <RimTube.AlreadySavedDuplicateDownloadSkipped>Already saved; duplicate download skipped</RimTube.AlreadySavedDuplicateDownloadSkipped>
+  <RimTube.ThePlaylistWasRemoved>The playlist was removed.</RimTube.ThePlaylistWasRemoved>
+  <RimTube.Canceling>Canceling</RimTube.Canceling>
+  <RimTube.LegacyYouTubeDownloadJobsAreDisabledAndWill>Legacy YouTube download jobs are disabled and will not restart.</RimTube.LegacyYouTubeDownloadJobsAreDisabledAndWill>
+  <RimTube.WaitingToRetry>Waiting to retry</RimTube.WaitingToRetry>
+  <RimTube.TheTrackNoLongerExists>The track no longer exists</RimTube.TheTrackNoLongerExists>
+  <RimTube.MediaSavedStartPlaybackManually>Media saved. Start playback manually.</RimTube.MediaSavedStartPlaybackManually>
+  <RimTube.PreparingMedia>Preparing media</RimTube.PreparingMedia>
+  <RimTube.YouTubeDownloadsAreDisabledInThisLegacyEntry>YouTube downloads are disabled in this legacy entry point.</RimTube.YouTubeDownloadsAreDisabledInThisLegacyEntry>
+  <RimTube.OriginalAudioNotFoundSelectTheFileAgain>Original audio not found. Select the file again.</RimTube.OriginalAudioNotFoundSelectTheFileAgain>
+  <RimTube.TheAudioFileIsMissingOrEmpty>The audio file is missing or empty.</RimTube.TheAudioFileIsMissingOrEmpty>
+  <RimTube.TheImportedTrackWasNotFound>The imported track was not found.</RimTube.TheImportedTrackWasNotFound>
+  <RimTube.Complete>Complete</RimTube.Complete>
+  <RimTube.MediaSavedButAutomaticPlaybackFailedStartIt>Media saved, but automatic playback failed. Start it manually.</RimTube.MediaSavedButAutomaticPlaybackFailedStartIt>
+  <RimTube.GameMusicBaseGameDLCActiveMods>Game music · Base game / DLC / active mods</RimTube.GameMusicBaseGameDLCActiveMods>
+  <RimTube.PlaylistRemoved>Playlist removed</RimTube.PlaylistRemoved>
+  <RimTube.OnlyMusicDefinitionsFromActiveContentAreListed>Only music definitions from active content are listed. Adding or previewing tracks does not download or export game assets.</RimTube.OnlyMusicDefinitionsFromActiveContentAreListed>
+  <RimTube.PasteAYouTubeVideoOrPlaylistURL>Paste a YouTube video or playlist URL</RimTube.PasteAYouTubeVideoOrPlaylistURL>
+  <RimTube.BuildingCatalogSnapshot>Building catalog snapshot…</RimTube.BuildingCatalogSnapshot>
+  <RimTube.NoMatchingTracksClearFiltersImportMediaOr>No matching tracks. Clear filters, import media, or browse Game Music.</RimTube.NoMatchingTracksClearFiltersImportMediaOr>
+  <RimTube.TheTrackWasRemovedRefreshTheList>The track was removed. Refresh the list.</RimTube.TheTrackWasRemovedRefreshTheList>
+  <RimTube.AddToLibrary>Add to library</RimTube.AddToLibrary>
+  <RimTube.AddTo>Add to </RimTube.AddTo>
+  <RimTube.MediaOptionsStreamDownloadQualityCaptions>Media options (stream / download / quality / captions)</RimTube.MediaOptionsStreamDownloadQualityCaptions>
+  <RimTube.TrackDetails>Track details</RimTube.TrackDetails>
+  <RimTube.RemoveFromThisPlaylistKeepFiles>Remove from this playlist (keep files)</RimTube.RemoveFromThisPlaylistKeepFiles>
+  <RimTube.MoveUpInPlaylist>Move up in playlist</RimTube.MoveUpInPlaylist>
+  <RimTube.MoveDownInPlaylist>Move down in playlist</RimTube.MoveDownInPlaylist>
+  <RimTube.DeleteSavedMusicCopy>Delete saved music copy…</RimTube.DeleteSavedMusicCopy>
+  <RimTube.DeleteOnlyRimTubeSSavedMusicCopyNPlaylists>Delete only RimTube's saved music copy?
+Playlists, video and original imported files will be kept.</RimTube.DeleteOnlyRimTubeSSavedMusicCopyNPlaylists>
+  <RimTube.DeleteSavedVideoCopy>Delete saved video copy…</RimTube.DeleteSavedVideoCopy>
+  <RimTube.DeleteOnlyRimTubeSSavedVideoCopyNPlaylists>Delete only RimTube's saved video copy?
+Playlists and music copies will be kept.</RimTube.DeleteOnlyRimTubeSSavedVideoCopyNPlaylists>
+  <RimTube.DownloadPlaylistSkipSavedCopies>Download playlist (skip saved copies)</RimTube.DownloadPlaylistSkipSavedCopies>
+  <RimTube.DeletePlaylistKeepTracksAndFiles>Delete playlist (keep tracks and files)…</RimTube.DeletePlaylistKeepTracksAndFiles>
+  <RimTube.DeleteThisPlaylistTracksAndAllFilesWill>Delete this playlist? Tracks and all files will be kept.</RimTube.DeleteThisPlaylistTracksAndAllFilesWill>
+  <RimTube.AssignAnotherEverydayCombatPlaylistFirst>Assign another everyday / combat playlist first.</RimTube.AssignAnotherEverydayCombatPlaylistFirst>
+  <RimTube.DownloadPlaylist>Download playlist: </RimTube.DownloadPlaylist>
+  <RimTube.CaptionsUseLanguagesSuppliedByTheSourceLive>Captions use languages supplied by the source. Live streams cannot be downloaded or freely seeked. Hiding the picture keeps audio and video playing; Stop releases decoding resources.</RimTube.CaptionsUseLanguagesSuppliedByTheSourceLive>
+  <RimTube.DeleteTheLocalMusicCopyPlaylistsAndVideo>Delete the local music copy? Playlists and video will be kept.</RimTube.DeleteTheLocalMusicCopyPlaylistsAndVideo>
+  <RimTube.DeleteTheLocalVideoCopyPlaylistsAndMusic>Delete the local video copy? Playlists and music will be kept.</RimTube.DeleteTheLocalVideoCopyPlaylistsAndMusic>
+  <RimTube.TheLibraryChangedOpenMediaOptionsAgain>The library changed. Open media options again.</RimTube.TheLibraryChangedOpenMediaOptionsAgain>
+  <RimTube.SwitchToTheMpvBackendForVideo>Switch to the mpv backend for video.</RimTube.SwitchToTheMpvBackendForVideo>
+  <RimTube.TooManyPlaybackOperationsTryAgainShortly>Too many playback operations. Try again shortly.</RimTube.TooManyPlaybackOperationsTryAgainShortly>
+  <RimTube.SwitchToTheMpvBackendToPlayVideo>Switch to the mpv backend to play video.</RimTube.SwitchToTheMpvBackendToPlayVideo>
+  <RimTube.TheNativeBackendOnlySupportsImportedLocalAudio>The native backend only supports imported local audio. Use mpv for online sources.</RimTube.TheNativeBackendOnlySupportsImportedLocalAudio>
+  <RimTube.TheLoadedGameTrackWasNotFoundCheck>The loaded game track was not found. Check its source mod.</RimTube.TheLoadedGameTrackWasNotFoundCheck>
+  <RimTube.CouldNotDecodeTheLocalAudio>Could not decode the local audio.</RimTube.CouldNotDecodeTheLocalAudio>
+  <RimTube.PrepareLocalAudioFirst>Prepare local audio first.</RimTube.PrepareLocalAudioFirst>
+  <RimTube.TheLibraryChangedOpenTheMenuAgain>The library changed. Open the menu again.</RimTube.TheLibraryChangedOpenTheMenuAgain>
+  <RimTube.DownloadImportJobsCurrentPlaybackContinuesAfterCompletion>Download / import jobs · Current playback continues after completion</RimTube.DownloadImportJobsCurrentPlaybackContinuesAfterCompletion>
+  <RimTube.EnterAPlaylistName>Enter a playlist name.</RimTube.EnterAPlaylistName>
+  <RimTube.RimTubeInitializationFailed>[RimTube] Initialization failed: </RimTube.RimTubeInitializationFailed>
+  <RimTube.RimTubeMusicPlayerNOpenTheFullPlayerTo>RimTube music player
+Open the full player to manage settings, playback tools and your library.</RimTube.RimTubeMusicPlayerNOpenTheFullPlayerTo>
+  <RimTube.OpenPlayer>Open player</RimTube.OpenPlayer>
+  <RimTube.MusicData>Music data: </RimTube.MusicData>
+  <RimTube.RimTubeLibraryInitializationFailed>[RimTube] Library initialization failed: </RimTube.RimTubeLibraryInitializationFailed>
+  <RimTube.RimTubePlayerError>[RimTube] Player error: </RimTube.RimTubePlayerError>
+  <RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube>Development data folders must be inside the RimTube project.</RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube>
+  <RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA>Development libraries cannot use directory links. Choose a regular folder inside the project.</RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA>
+  <RimTube.FinishMediaDeletionAndCompleteOrCancelImport>Finish media deletion and complete or cancel import jobs before switching libraries.</RimTube.FinishMediaDeletionAndCompleteOrCancelImport>
+  <RimTube.TheOperationQueueIsBusyTryAgainShortly>The operation queue is busy. Try again shortly.</RimTube.TheOperationQueueIsBusyTryAgainShortly>
+  <RimTube.TheLibraryChangedTryTheOperationAgain>The library changed. Try the operation again.</RimTube.TheLibraryChangedTryTheOperationAgain>
+  <RimTube.LocalAudioNotFound>Local audio not found: </RimTube.LocalAudioNotFound>
+  <RimTube.ReadingYouTubePlaylist>Reading YouTube playlist…</RimTube.ReadingYouTubePlaylist>
+  <RimTube.YouTubePlaylistLookupFailedCheckTheToolsAnd>YouTube playlist lookup failed. Check the tools and network; the original playlist was preserved.</RimTube.YouTubePlaylistLookupFailedCheckTheToolsAnd>
+  <RimTube.SwitchToTheMpvBackendInSettingsFor>Switch to the mpv backend in Settings for YouTube streaming.</RimTube.SwitchToTheMpvBackendInSettingsFor>
+  <RimTube.GettingYouTubeTrackInformation>Getting YouTube track information…</RimTube.GettingYouTubeTrackInformation>
+  <RimTube.TheTargetPlaylistWasRemovedAddTheTrack>The target playlist was removed. Add the track again.</RimTube.TheTargetPlaylistWasRemovedAddTheTrack>
+  <RimTube.YouTubeLookupFailedCheckThePlaybackToolsAnd>YouTube lookup failed. Check the playback tools and network.</RimTube.YouTubeLookupFailedCheckThePlaybackToolsAnd>
+  <RimTube.DownloadQueuedViewProgressOrCancelItIn>Download queued. View progress or cancel it in Import Jobs.</RimTube.DownloadQueuedViewProgressOrCancelItIn>
+  <RimTube.ThisMediaIsBeingDeletedPleaseWait>This media is being deleted. Please wait.</RimTube.ThisMediaIsBeingDeletedPleaseWait>
+  <RimTube.TheCurrentVideoChangedOrStoppedOpenThe>The current video changed or stopped. Open the quality menu again.</RimTube.TheCurrentVideoChangedOrStoppedOpenThe>
+  <RimTube.TheCurrentVideoChangedOrStoppedOpenCaption>The current video changed or stopped. Open caption options again.</RimTube.TheCurrentVideoChangedOrStoppedOpenCaption>
+  <RimTube.ThisIsNotGameMusic>This is not game music.</RimTube.ThisIsNotGameMusic>
+  <RimTube.AudioForThisSourceHasNotLoaded>Audio for this source has not loaded.</RimTube.AudioForThisSourceHasNotLoaded>
+  <RimTube.CompleteOrCancelThisVideoSDownloadFirst>Complete or cancel this video's download first.</RimTube.CompleteOrCancelThisVideoSDownloadFirst>
+  <RimTube.CompleteOrCancelThisTrackSDownloadImport>Complete or cancel this track's download / import jobs first.</RimTube.CompleteOrCancelThisTrackSDownloadImport>
+  <RimTube.WaitForTheCurrentMediaDeletionToFinish>Wait for the current media deletion to finish.</RimTube.WaitForTheCurrentMediaDeletionToFinish>
+  <RimTube.TheSourceTrackHasNoValidVideoID>The source track has no valid video ID.</RimTube.TheSourceTrackHasNoValidVideoID>
+  <RimTube.CancelThisTrackSDownloadFirst>Cancel this track's download first.</RimTube.CancelThisTrackSDownloadFirst>
+  <RimTube.NYouTubeTracksUseYtDlpForResolutionAnd>
+YouTube tracks use yt-dlp for resolution and mpv for streaming. Restricted content is not automatically logged in.</RimTube.NYouTubeTracksUseYtDlpForResolutionAnd>
+  <RimTube.RimTubeSaveFailed>[RimTube] Save failed: </RimTube.RimTubeSaveFailed>
+  <RimTube.ShortcutsClickThenPressANewCombinationDisabled>Shortcuts · Click, then press a new combination (disabled while typing)</RimTube.ShortcutsClickThenPressANewCombinationDisabled>
+  <RimTube.HiddenVideoContinuesAudioAndDecodingStopReleases>Hidden video continues audio and decoding; Stop releases decoding resources.
+Storage shows saved audio and video, not RAM buffering. Removing playlists keeps files.
+Game music uses loaded engine assets without downloading or exporting them.</RimTube.HiddenVideoContinuesAudioAndDecodingStopReleases>
+  <RimTube.AllFourThemesShareTheSameControlsAutomatic>All four themes share the same controls. Automatic technology themes and translucent video are not included.
+UI performance, focus and video occlusion still require in-game acceptance testing.</RimTube.AllFourThemesShareTheSameControlsAutomatic>
+  <RimTube.BaseGameRimWorld>Base game RimWorld</RimTube.BaseGameRimWorld>
+  <RimTube.Mod>Mod · </RimTube.Mod>
+  <RimTube.UpdatedBySourceMessage>Updated by source</RimTube.UpdatedBySourceMessage>
+  <RimTube.SourceNotLoadedPlaylistAndTrackReferencesPreserved>Source not loaded; playlist and track references preserved</RimTube.SourceNotLoadedPlaylistAndTrackReferencesPreserved>
+  <RimTube.TheGameMusicSourceIsDisabledOrRemoved>The game music source is disabled or removed.</RimTube.TheGameMusicSourceIsDisabledOrRemoved>
+  <RimTube.ThisGameTrackHasNoLoadedAudioCheck>This game track has no loaded audio. Check that its DLC / mod is enabled.</RimTube.ThisGameTrackHasNoLoadedAudioCheck>
+  <RimTube.UseTheGameMusicCatalog>Use the game music catalog.</RimTube.UseTheGameMusicCatalog>
+  <RimTube.UsesLoadedGameMusicNoExternalToolsNeeded>Uses loaded game music; no external tools needed</RimTube.UsesLoadedGameMusicNoExternalToolsNeeded>
+  <RimTube.UseStreamingForLiveContentUnlimitedRecordingJobs>Use streaming for live content. Unlimited recording jobs are not created.</RimTube.UseStreamingForLiveContentUnlimitedRecordingJobs>
+  <RimTube.MediaDownloadFailedExistingCopiesWerePreservedCheck>Media download failed; existing copies were preserved. Check the source, network and yt-dlp / FFmpeg versions.</RimTube.MediaDownloadFailedExistingCopiesWerePreservedCheck>
+  <RimTube.TheDownloadDidNotProduceCompleteMediaExisting>The download did not produce complete media. Existing copies were not changed.</RimTube.TheDownloadDidNotProduceCompleteMediaExisting>
+  <RimTube.LocalSourcesDoNotProvideOnlinePlaylists>Local sources do not provide online playlists.</RimTube.LocalSourcesDoNotProvideOnlinePlaylists>
+  <RimTube.ImportedLocalAudioWasNotFoundImportIt>Imported local audio was not found. Import it again.</RimTube.ImportedLocalAudioWasNotFoundImportIt>
+  <RimTube.LocalMusicLibraryAvailable>Local music library available</RimTube.LocalMusicLibraryAvailable>
+  <RimTube.ThePlaylistPreviewExpiredReadItAgainThe>The playlist preview expired. Read it again; the original playlist was preserved.</RimTube.ThePlaylistPreviewExpiredReadItAgainThe>
+  <RimTube.ThisIsNotAYouTubeTrack>This is not a YouTube track.</RimTube.ThisIsNotAYouTubeTrack>
+  <RimTube.FinishDownloadingFirstOrSelectStreaming>Finish downloading first, or select streaming.</RimTube.FinishDownloadingFirstOrSelectStreaming>
+  <RimTube.SelectTheMpvBackendInSettingsForYouTube>Select the mpv backend in Settings for YouTube streaming.</RimTube.SelectTheMpvBackendInSettingsForYouTube>
+  <RimTube.SetTheYtDlpExePathInSettings>Set the yt-dlp.exe path in Settings, then retry playlist import.</RimTube.SetTheYtDlpExePathInSettings>
+  <RimTube.YouTubePlaylistLookupTimedOutTryAgainLater>YouTube playlist lookup timed out. Try again later; the original playlist was preserved.</RimTube.YouTubePlaylistLookupTimedOutTryAgainLater>
+  <RimTube.CouldNotStartYtDlpCheckTheTool>Could not start yt-dlp. Check the tool path.</RimTube.CouldNotStartYtDlpCheckTheTool>
+  <RimTube.CouldNotReadTheYouTubePlaylistCheckPublic>Could not read the YouTube playlist. Check public access and your network; the original playlist was preserved.</RimTube.CouldNotReadTheYouTubePlaylistCheckPublic>
+  <RimTube.YouTubeReturnedIncompletePlaylistIdentificationOrContentThe>YouTube returned incomplete playlist identification or content. The original playlist was preserved.</RimTube.YouTubeReturnedIncompletePlaylistIdentificationOrContentThe>
+  <RimTube.ThisPlaylistRequiresLoginOrHasAccessRestrictions>This playlist requires login or has access restrictions. Only directly accessible playlists are supported.</RimTube.ThisPlaylistRequiresLoginOrHasAccessRestrictions>
+  <RimTube.YouTubePlaylistMessage>YouTube playlist</RimTube.YouTubePlaylistMessage>
+  <RimTube.TheFullPlaylistWasReadAudioStreamsAre>The full playlist was read. Audio streams are obtained only when played.</RimTube.TheFullPlaylistWasReadAudioStreamsAre>
+  <RimTube.ThePlaylistContainsHiddenUnavailableEntriesSourceWarnings>The playlist contains hidden / unavailable entries, source warnings, or exceeds 10,000 tracks. Retrieved tracks may be added; existing entries and order will be preserved.</RimTube.ThePlaylistContainsHiddenUnavailableEntriesSourceWarnings>
+  <RimTube.SetTheYtDlpExePathInSettingsMessage>Set the yt-dlp.exe path in Settings, then retry YouTube playback.</RimTube.SetTheYtDlpExePathInSettingsMessage>
+  <RimTube.TheConfiguredDenoExecutableWasNotFoundCorrect>The configured JavaScript executable was not found. Correct the JavaScript runtime path.</RimTube.TheConfiguredDenoExecutableWasNotFoundCorrect>
+  <RimTube.YouTubeResolutionTimedOutCheckYourNetworkAnd>YouTube resolution timed out. Check your network and try again.</RimTube.YouTubeResolutionTimedOutCheckYourNetworkAnd>
+  <RimTube.ThisYouTubeContentRequiresLoginOrHasAccess>This YouTube content requires login or has access restrictions. Cookies and restriction bypasses are not used.</RimTube.ThisYouTubeContentRequiresLoginOrHasAccess>
+  <RimTube.YouTubeSuppliedNoPlayablePublicAudioCheckThe>YouTube supplied no playable public audio. Check the URL, network and yt-dlp / JavaScript runtime versions, then try again.</RimTube.YouTubeSuppliedNoPlayablePublicAudioCheckThe>
+  <RimTube.TheYouTubeToolReturnedIncompleteTrackInformationUpdate>The YouTube tool returned incomplete track information. Update it and try again.</RimTube.TheYouTubeToolReturnedIncompleteTrackInformationUpdate>
+  <RimTube.TheResolvedYouTubeTrackDoesNotMatchThe>The resolved YouTube track does not match the requested track.</RimTube.TheResolvedYouTubeTrackDoesNotMatchThe>
+  <RimTube.ThisLiveStreamPremiereHasNotStartedTry>This live stream / premiere has not started. Try again after it begins.</RimTube.ThisLiveStreamPremiereHasNotStartedTry>
+  <RimTube.ThisYouTubeContentIsNotDirectlyAccessiblePublic>This YouTube content is not directly accessible public audio.</RimTube.ThisYouTubeContentIsNotDirectlyAccessiblePublic>
+  <RimTube.TheSourceProvidesNoSupportedSeparateAudioStream>The source provides no supported separate audio stream.</RimTube.TheSourceProvidesNoSupportedSeparateAudioStream>
+  <RimTube.UnsupportedCaptionSourceURL>Unsupported caption source URL.</RimTube.UnsupportedCaptionSourceURL>
+  <RimTube.TheSourceProvidesNoVideoForTheSelected>The source provides no video for the selected quality.</RimTube.TheSourceProvidesNoVideoForTheSelected>
+  <RimTube.TheSourceHasNoMediaLocation>The source has no media location.</RimTube.TheSourceHasNoMediaLocation>
+  <RimTube.TheYouTubeToolReturnedNoSupportedMediaLocation>The YouTube tool returned no supported media location.</RimTube.TheYouTubeToolReturnedNoSupportedMediaLocation>
+  <RimTube.GameMusicMessage>Game music</RimTube.GameMusicMessage>
+  <RimTube.LocalAudio>Local audio</RimTube.LocalAudio>
+  <RimTube.Title>Title</RimTube.Title>
+  <RimTube.Category>Category</RimTube.Category>
+  <RimTube.UsesLoadedGameMusicDefinitionsGameAssetsAre>Uses loaded game music definitions. Game assets are not downloaded, exported or deleted.</RimTube.UsesLoadedGameMusicDefinitionsGameAssetsAre>
+  <RimTube.SourceSavedUseMediaOptionsToChooseStreaming>Source saved. Use media options to choose streaming / download, audio / video, quality and captions.</RimTube.SourceSavedUseMediaOptionsToChooseStreaming>
+  <RimTube.LibraryCopiesWorkOfflineDeletingACopyDoes>Library copies work offline. Deleting a copy does not affect the original imported file.</RimTube.LibraryCopiesWorkOfflineDeletingACopyDoes>
+  <RimTube.TheLibraryOrTrackChangedOpenThisWindow>The library or track changed. Open this window again.</RimTube.TheLibraryOrTrackChangedOpenThisWindow>
+  <RimTube.SetShortcut>Set shortcut: </RimTube.SetShortcut>
+  <RimTube.PressANewKeyCombinationEscCancelsBackspace>Press a new key combination. Esc cancels; Backspace clears.
+Avoid shortcuts used by the game or other mods.</RimTube.PressANewKeyCombinationEscCancelsBackspace>
+  <RimTube.ThisCombinationIsAlreadyAssignedToAnotherRimTube>This combination is already assigned to another RimTube action.</RimTube.ThisCombinationIsAlreadyAssignedToAnotherRimTube>
+  <RimTube.Auto> [Auto]</RimTube.Auto>
+  <RimTube.Everyday> [Everyday]</RimTube.Everyday>
+  <RimTube.Combat> [Combat]</RimTube.Combat>
+  <RimTube.LocalPlaylist>Local playlist</RimTube.LocalPlaylist>
+  <RimTube.StorageNotCalculatedYet>Storage not calculated yet</RimTube.StorageNotCalculatedYet>
+  <RimTube.PreparingMusicLibrary>Preparing music library…</RimTube.PreparingMusicLibrary>
+  <RimTube.CatalogUpdateFailedPreviousResultsWereKeptTry>Catalog update failed. Previous results were kept; try refreshing.</RimTube.CatalogUpdateFailedPreviousResultsWereKeptTry>
+  <RimTube.StorageCalculationFailedTryRefreshing>Storage calculation failed; try refreshing</RimTube.StorageCalculationFailedTryRefreshing>
+  <RimTube.SavedAudioAndVideo>Saved audio and video: </RimTube.SavedAudioAndVideo>
+  <RimTube.NoTrackSelected>No track selected</RimTube.NoTrackSelected>
+  <RimTube.CombatMessage>Combat · </RimTube.CombatMessage>
+  <RimTube.NNote>
+Note: </RimTube.NNote>
+  <RimTube.CouldNotSaveInterfacePreferences>Could not save interface preferences: </RimTube.CouldNotSaveInterfacePreferences>
+  <RimTube.StateIdle>Idle</RimTube.StateIdle>
+  <RimTube.StateInitializing>Initializing</RimTube.StateInitializing>
+  <RimTube.StatePreparing>Preparing</RimTube.StatePreparing>
+  <RimTube.StateReady>Ready</RimTube.StateReady>
+  <RimTube.StateEnded>Ended</RimTube.StateEnded>
+  <RimTube.StateDisposed>Closed</RimTube.StateDisposed>
+  <RimTube.SyncComplete>Synchronized</RimTube.SyncComplete>
+  <RimTube.SyncPartial>Partial sync</RimTube.SyncPartial>
+  <RimTube.SyncNever>Not synchronized</RimTube.SyncNever>
+  <RimTube.SyncAdapterRequired>Source adapter required</RimTube.SyncAdapterRequired>
+  <RimTube.ToolNotFound>Could not find {0}. Set the full tool path.</RimTube.ToolNotFound>
+  <RimTube.ToolAvailable>{0} is available</RimTube.ToolAvailable>
+  <RimTube.ToolVersionFailed>{0} version check failed</RimTube.ToolVersionFailed>
+  <RimTube.ToolStartFailed>{0} could not start or timed out. Check the tool path.</RimTube.ToolStartFailed>
+  <RimTube.ToolPathRequired>In Settings, specify the full path to {0}.</RimTube.ToolPathRequired>
+  <RimTube.PlaylistPreviewSummary>Source: {0} tracks; added: {1}; removed: {2}; order: {3}.
+Removing entries keeps audio files. Duplicate videos share one track.</RimTube.PlaylistPreviewSummary>
+  <RimTube.BatchDownloadSummary>{0} tracks, up to {1} downloads at once. Saved copies will be preferred. Adjust concurrency, cancel or retry in Import Jobs.</RimTube.BatchDownloadSummary>
+  <RimTube.QualityLimitDetail>Quality limit: {0}p (uses lower quality when unavailable)</RimTube.QualityLimitDetail>
+  <RimTube.BatchDownloadResult>Added: {0}; already saved: {1}; queued: {2}. Saved copies will be preferred.</RimTube.BatchDownloadResult>
+  <RimTube.TrackCount>{0} tracks</RimTube.TrackCount>
+  <RimTube.PlayerFooter>Backend: {0} · Downloading / importing: {1} · {2}</RimTube.PlayerFooter>
+  <RimTube.ConcurrentDownloadsDetail>Concurrent downloads: {0} (saved copies are skipped)</RimTube.ConcurrentDownloadsDetail>
+  <RimTube.StreamBufferDetail>Stream forward buffer: {0} MiB; back buffer: {1} MiB</RimTube.StreamBufferDetail>
+  <RimTube.SourceUpdateMissing>Updated by source · {0} audio tracks not loaded</RimTube.SourceUpdateMissing>
+  <RimTube.SourceLocalImport>Local import</RimTube.SourceLocalImport>
+  <RimTube.UpdateNoticesInvalid>Update notices are missing or invalid. The current tool is unchanged.</RimTube.UpdateNoticesInvalid>
+  <RimTube.UpdateTooLarge>The update exceeds the size limit. The current tool is unchanged.</RimTube.UpdateTooLarge>
+  <RimTube.UpdateChecksumInvalid>Update checksum verification failed. The current tool is unchanged.</RimTube.UpdateChecksumInvalid>
+  <RimTube.UpdateVersionInvalid>The executable version differs from the official release. The current tool is unchanged.</RimTube.UpdateVersionInvalid>
+  <RimTube.UpdateStoredInvalid>An existing update is damaged. Restore the bundled version first.</RimTube.UpdateStoredInvalid>
+  <RimTube.UpdateReleaseInvalid>Could not validate the official stable release. The current tool is unchanged.</RimTube.UpdateReleaseInvalid>
+  <RimTube.UpdateApplied>Resolver selection applied. Custom tool overrides still take priority.</RimTube.UpdateApplied>
+  <RimTube.UpdateStopFirst>Stop playback and wait for resolution, downloads and tool checks to finish first.</RimTube.UpdateStopFirst>
+  <RimTube.UpdateReverting>Restoring the bundled resolver…</RimTube.UpdateReverting>
+  <RimTube.UpdateDownloading>Downloading and verifying the official resolver and license notices…</RimTube.UpdateDownloading>
+  <RimTube.UpdateReady>Resolver is ready and will apply when playback stops.</RimTube.UpdateReady>
+  <RimTube.UpdateCancelled>Update cancelled. The current tool selection is unchanged.</RimTube.UpdateCancelled>
+  <RimTube.UpdateFailed>Update did not complete: {0}</RimTube.UpdateFailed>
+  <RimTube.UpdateWorking>Resolver update in progress…</RimTube.UpdateWorking>
+  <RimTube.UpdateResolver>Update resolver</RimTube.UpdateResolver>
+  <RimTube.RevertResolver>Restore bundled version</RimTube.RevertResolver>
+  <RimTube.UpdateResolverHint>Connects to official GitHub only when requested. Updates are saved in the game user-data folder and activated after verification, without overwriting Workshop files. A custom yt-dlp path takes priority; clear it to use automatic selection.</RimTube.UpdateResolverHint>
+  <RimTube.JsRuntime>JS runtime</RimTube.JsRuntime>
+</LanguageData>

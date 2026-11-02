@@ -1,0 +1,22 @@
+{
+  "phase": "Traditional Chinese/English resource migration complete; game layout acceptance tracked separately",
+  "keyCount": 489,
+  "usedKeyCount": 482,
+  "unusedKeys": [
+    "RimTube.AllMedia",
+    "RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube",
+    "RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA",
+    "RimTube.NYouTubeTracksUseYtDlpForResolutionAnd",
+    "RimTube.Options",
+    "RimTube.Previous",
+    "RimTube.UpdateStoredInvalid"
+  ],
+  "pendingLiteralCount": 0,
+  "pendingByArea": {
+    "interface": 0,
+    "sources": 0,
+    "core": 0,
+    "game_bridge_and_jobs": 0
+  },
+  "pending": []
+}

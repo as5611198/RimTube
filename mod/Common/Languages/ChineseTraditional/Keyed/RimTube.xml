@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimTube.DataOutsideMod>請把音樂庫放在模組資料夾之外，避免模組更新覆蓋資料。</RimTube.DataOutsideMod>
+  <RimTube.AbsoluteDataPath>請指定完整的資料夾路徑。</RimTube.AbsoluteDataPath>
+  <RimTube.LibraryTitle>RimTube · 媒體庫</RimTube.LibraryTitle>
+  <RimTube.Initializing>播放器正在初始化。</RimTube.Initializing>
+  <RimTube.Mini>迷你列</RimTube.Mini>
+  <RimTube.Video>影片</RimTube.Video>
+  <RimTube.HideAll>全隱藏</RimTube.HideAll>
+  <RimTube.Previous>上一首</RimTube.Previous>
+  <RimTube.PreviousShort>上首</RimTube.PreviousShort>
+  <RimTube.Next>下一首</RimTube.Next>
+  <RimTube.NextShort>下首</RimTube.NextShort>
+  <RimTube.Play>播放</RimTube.Play>
+  <RimTube.Pause>暫停</RimTube.Pause>
+  <RimTube.Stop>停止</RimTube.Stop>
+  <RimTube.Mute>靜音</RimTube.Mute>
+  <RimTube.Unmute>取消靜音</RimTube.Unmute>
+  <RimTube.SoundOn>有聲</RimTube.SoundOn>
+  <RimTube.Volume>音量</RimTube.Volume>
+  <RimTube.Ordered>依序</RimTube.Ordered>
+  <RimTube.Shuffle>隨機</RimTube.Shuffle>
+  <RimTube.RepeatOne>單曲循環</RimTube.RepeatOne>
+  <RimTube.RepeatAll>清單循環</RimTube.RepeatAll>
+  <RimTube.AllMedia>全部媒體</RimTube.AllMedia>
+  <RimTube.GameMusic>遊戲音樂 · 選曲</RimTube.GameMusic>
+  <RimTube.Playlists>播放清單</RimTube.Playlists>
+  <RimTube.NewPlaylist>＋ 新增歌單</RimTube.NewPlaylist>
+  <RimTube.Jobs>下載／匯入工作</RimTube.Jobs>
+  <RimTube.Settings>設定與外觀</RimTube.Settings>
+  <RimTube.Clear>清除</RimTube.Clear>
+  <RimTube.Refresh>重新整理</RimTube.Refresh>
+  <RimTube.Refreshing>更新中…</RimTube.Refreshing>
+  <RimTube.PlaylistActions>歌單操作</RimTube.PlaylistActions>
+  <RimTube.Search>搜尋</RimTube.Search>
+  <RimTube.Cancel>取消</RimTube.Cancel>
+  <RimTube.CancelResolve>取消解析</RimTube.CancelResolve>
+  <RimTube.YouTubeMedia>YT 媒體</RimTube.YouTubeMedia>
+  <RimTube.YouTubePlaylist>YT 歌單</RimTube.YouTubePlaylist>
+  <RimTube.LocalImport>本機匯入</RimTube.LocalImport>
+  <RimTube.Add>加入</RimTube.Add>
+  <RimTube.More>更多</RimTube.More>
+  <RimTube.Save>儲存</RimTube.Save>
+  <RimTube.Close>關閉</RimTube.Close>
+  <RimTube.Retry>重試</RimTube.Retry>
+  <RimTube.Done>完成</RimTube.Done>
+  <RimTube.Failed>失敗</RimTube.Failed>
+  <RimTube.Canceled>已取消</RimTube.Canceled>
+  <RimTube.Interrupted>上次中斷</RimTube.Interrupted>
+  <RimTube.Waiting>等待</RimTube.Waiting>
+  <RimTube.JobsActive>下載／匯入中</RimTube.JobsActive>
+  <RimTube.CreatingPlaylist>新增播放清單</RimTube.CreatingPlaylist>
+  <RimTube.RenamePlaylist>重新命名歌單</RimTube.RenamePlaylist>
+  <RimTube.Rename>重新命名</RimTube.Rename>
+  <RimTube.SetGeneral>指定為日常音樂</RimTube.SetGeneral>
+  <RimTube.SetCombat>指定為戰鬥音樂</RimTube.SetCombat>
+  <RimTube.RefreshSource>重新整理來源歌單</RimTube.RefreshSource>
+  <RimTube.ManualSync>手動同步來源（先預覽）</RimTube.ManualSync>
+  <RimTube.SourceAll>來源：全部</RimTube.SourceAll>
+  <RimTube.SourceYouTube>來源：YouTube</RimTube.SourceYouTube>
+  <RimTube.SourceLocal>來源：本機匯入</RimTube.SourceLocal>
+  <RimTube.SourceCore>來源：原版</RimTube.SourceCore>
+  <RimTube.SourceDlc>來源：DLC</RimTube.SourceDlc>
+  <RimTube.SourceMod>來源：模組</RimTube.SourceMod>
+  <RimTube.StorageAll>保存：全部</RimTube.StorageAll>
+  <RimTube.StorageSaved>保存：已有本機副本</RimTube.StorageSaved>
+  <RimTube.StorageRemote>保存：僅線上來源</RimTube.StorageRemote>
+  <RimTube.StorageMissing>狀態：缺少來源／檔案</RimTube.StorageMissing>
+  <RimTube.TypeAll>類型：全部</RimTube.TypeAll>
+  <RimTube.TypeMusic>類型：音樂</RimTube.TypeMusic>
+  <RimTube.TypeVideo>類型：影片</RimTube.TypeVideo>
+  <RimTube.TypeLive>類型：直播</RimTube.TypeLive>
+  <RimTube.Library>媒體庫</RimTube.Library>
+  <RimTube.AudioOnly>純音訊</RimTube.AudioOnly>
+  <RimTube.Restore>還原</RimTube.Restore>
+  <RimTube.Maximize>放大</RimTube.Maximize>
+  <RimTube.Options>選項</RimTube.Options>
+  <RimTube.Quality>畫質</RimTube.Quality>
+  <RimTube.QualityPrefix>畫質 </RimTube.QualityPrefix>
+  <RimTube.Hide>隱藏</RimTube.Hide>
+  <RimTube.LockThrough>穿透鎖定</RimTube.LockThrough>
+  <RimTube.SubtitleOptions>字幕選項</RimTube.SubtitleOptions>
+  <RimTube.SubtitleOff>關閉字幕</RimTube.SubtitleOff>
+  <RimTube.SubtitleLanguage>字幕語言</RimTube.SubtitleLanguage>
+  <RimTube.SelectLanguage>選擇語言</RimTube.SelectLanguage>
+  <RimTube.ManualCaption> · 人工字幕</RimTube.ManualCaption>
+  <RimTube.AutoCaption> · 來源自動字幕</RimTube.AutoCaption>
+  <RimTube.SourceCaption> · 來源字幕</RimTube.SourceCaption>
+  <RimTube.CaptionLoading>正在取得影片資訊與字幕語言…</RimTube.CaptionLoading>
+  <RimTube.CaptionLookupFailed>無法取得字幕語言；請檢查網址與工具設定。</RimTube.CaptionLookupFailed>
+  <RimTube.CaptionRetry>字幕資訊讀取失敗；可重新開啟再試。</RimTube.CaptionRetry>
+  <RimTube.PlayerChanged>播放器已切換，請重新開啟。</RimTube.PlayerChanged>
+  <RimTube.NoCaptions>此來源沒有可用字幕。</RimTube.NoCaptions>
+  <RimTube.CaptionToggleHint>字幕開關：亮起為開啟，暗色為關閉；尚無字幕時開啟字幕選項。</RimTube.CaptionToggleHint>
+  <RimTube.CaptionFooter>CC 按鈕可立即開關字幕。選擇其他語言會以串流重新載入，保留進度與本機副本。</RimTube.CaptionFooter>
+  <RimTube.CaptionFallback>所選語言沒有人工字幕時，嘗試來源自動字幕</RimTube.CaptionFallback>
+  <RimTube.CaptionDefaults>新媒體的預設字幕 · 全域偏好</RimTube.CaptionDefaults>
+  <RimTube.CaptionDefaultPrefix>預設字幕：</RimTube.CaptionDefaultPrefix>
+  <RimTube.NoAutoSelection>不自動選擇</RimTube.NoAutoSelection>
+  <RimTube.NoAutoCaptions>不自動選擇字幕</RimTube.NoAutoCaptions>
+  <RimTube.DefaultCaptionFallback>預設允許來源自動字幕（找不到人工字幕時）</RimTube.DefaultCaptionFallback>
+  <RimTube.YouTubeOptions>YouTube 媒體選項</RimTube.YouTubeOptions>
+  <RimTube.ContentPrefix>內容：</RimTube.ContentPrefix>
+  <RimTube.VideoAndAudio>影片與聲音</RimTube.VideoAndAudio>
+  <RimTube.MusicOnly>僅音樂</RimTube.MusicOnly>
+  <RimTube.StreamNow>直接串流播放</RimTube.StreamNow>
+  <RimTube.DownloadPlay>先下載，再播放</RimTube.DownloadPlay>
+  <RimTube.DownloadOnly>只下載並保存</RimTube.DownloadOnly>
+  <RimTube.PreferSaved>優先本機副本並播放</RimTube.PreferSaved>
+  <RimTube.DeleteAudio>刪除音樂副本</RimTube.DeleteAudio>
+  <RimTube.DeleteVideo>刪除影片副本</RimTube.DeleteVideo>
+  <RimTube.DownloadQueue>加入下載佇列</RimTube.DownloadQueue>
+  <RimTube.UiPreferences>介面與操作 · 全域偏好</RimTube.UiPreferences>
+  <RimTube.ThemePrefix>主題：</RimTube.ThemePrefix>
+  <RimTube.ShowMini>顯示迷你列（播放器／影片開啟時收起）</RimTube.ShowMini>
+  <RimTube.SnapMini>迷你列吸附螢幕邊緣</RimTube.SnapMini>
+  <RimTube.FadeMini>迷你列閒置時淡化</RimTube.FadeMini>
+  <RimTube.LockMini>迷你列鎖定並穿透（用恢復快捷鍵解除）</RimTube.LockMini>
+  <RimTube.KeepAspect>影片保持來源比例（未知時先採 16:9）</RimTube.KeepAspect>
+  <RimTube.MiniOpacity>迷你列背景透明度</RimTube.MiniOpacity>
+  <RimTube.RestoreMini>恢復迷你列／解除穿透</RimTube.RestoreMini>
+  <RimTube.ResetWindows>重設視窗位置</RimTube.ResetWindows>
+  <RimTube.ColonySettings>殖民地播放設定 · 隨遊戲存檔保存</RimTube.ColonySettings>
+  <RimTube.CombatPrefix>戰鬥時：</RimTube.CombatPrefix>
+  <RimTube.GeneralListPrefix>日常清單：</RimTube.GeneralListPrefix>
+  <RimTube.CombatListPrefix>戰鬥清單：</RimTube.CombatListPrefix>
+  <RimTube.Unassigned>未指定</RimTube.Unassigned>
+  <RimTube.PauseWithGame>遊戲暫停時，同時暫停音樂</RimTube.PauseWithGame>
+  <RimTube.CoverPause>影片被遮住：暫藏並暫停，返回續播</RimTube.CoverPause>
+  <RimTube.CoverContinue>影片被遮住：影音持續播放（不暫藏）</RimTube.CoverContinue>
+  <RimTube.CoverPauseChoice>暫藏並暫停，返回續播</RimTube.CoverPauseChoice>
+  <RimTube.CoverContinueChoice>影音持續播放（不暫藏）</RimTube.CoverContinueChoice>
+  <RimTube.MediaTools>媒體與工具 · 音樂庫設定</RimTube.MediaTools>
+  <RimTube.SwitchFolder>切換資料夾</RimTube.SwitchFolder>
+  <RimTube.RefreshStorage>更新容量／狀態</RimTube.RefreshStorage>
+  <RimTube.ApplySettings>儲存並套用播放設定</RimTube.ApplySettings>
+  <RimTube.CheckTools>檢查工具版本</RimTube.CheckTools>
+  <RimTube.NativeBackend>原生本機音訊</RimTube.NativeBackend>
+  <RimTube.BackendNative>後端：原生本機音訊</RimTube.BackendNative>
+  <RimTube.BackendMpv>後端：mpv</RimTube.BackendMpv>
+  <RimTube.VanillaBattle>原版戰鬥音樂</RimTube.VanillaBattle>
+  <RimTube.CustomBattle>自訂戰鬥清單</RimTube.CustomBattle>
+  <RimTube.ContinueBattle>繼續目前音樂</RimTube.ContinueBattle>
+  <RimTube.HotkeyPanel>開啟／關閉媒體庫</RimTube.HotkeyPanel>
+  <RimTube.HotkeyPlay>播放／暫停</RimTube.HotkeyPlay>
+  <RimTube.HotkeyRestore>恢復迷你列並解除穿透</RimTube.HotkeyRestore>
+  <RimTube.HotkeyLock>切換迷你列穿透</RimTube.HotkeyLock>
+  <RimTube.NotSet>未設定</RimTube.NotSet>
+  <RimTube.Rust>廢土工業</RimTube.Rust>
+  <RimTube.RustFlavor>殖民地電台</RimTube.RustFlavor>
+  <RimTube.Glitter>閃耀科技</RimTube.Glitter>
+  <RimTube.GlitterFlavor>星際通訊</RimTube.GlitterFlavor>
+  <RimTube.Medieval>中世紀奇幻</RimTube.Medieval>
+  <RimTube.MedievalFlavor>吟遊詩人的樂章</RimTube.MedievalFlavor>
+  <RimTube.Tribal>部落原始</RimTube.Tribal>
+  <RimTube.TribalFlavor>先祖的回聲</RimTube.TribalFlavor>
+  <RimTube.CaptionAvailable>可用字幕：人工 {0} 種，自動 {1} 種；尚未選擇時不載入字幕。</RimTube.CaptionAvailable>
+  <RimTube.Less>收起</RimTube.Less>
+  <RimTube.VideoControlsHint>展開或收起音量、字幕與畫質控制；時間與進度條會保留。</RimTube.VideoControlsHint>
+  <RimTube.SeekHint>點擊或拖曳預覽位置，放開滑鼠後跳轉；Esc 取消。</RimTube.SeekHint>
+  <RimTube.LiveSeekHint>直播 · 無法任意跳轉。</RimTube.LiveSeekHint>
+  <RimTube.SeekUnavailable>目前尚無可跳轉的影片進度。</RimTube.SeekUnavailable>
+  <RimTube.QualityHint>直接切換串流畫質上限；來源缺少此畫質時使用較低畫質。一般影片保留位置，直播重新接上即時畫面。切換時會短暫重新載入。</RimTube.QualityHint>
+  <RimTube.VideoCovered>影片暫藏並自動暫停；關閉遮擋視窗後續播。</RimTube.VideoCovered>
+  <RimTube.VideoUnavailable>影片表面不可用；後端可能使用獨立影片視窗。</RimTube.VideoUnavailable>
+  <RimTube.AllMusic>全部音樂</RimTube.AllMusic>
+  <RimTube.AllVideos>全部影片</RimTube.AllVideos>
+  <RimTube.MusicLibraryHeading>音樂庫 · 所有已加入的音樂</RimTube.MusicLibraryHeading>
+  <RimTube.VideoLibraryHeading>影片庫 · 串流與已下載影片</RimTube.VideoLibraryHeading>
+  <RimTube.SubtitleSize>字幕大小：{0}%</RimTube.SubtitleSize>
+  <RimTube.SubtitleSizeHint>即時調整字幕大小，不重新載入影片；小視窗建議 150%～250%。此設定會保存。</RimTube.SubtitleSizeHint>
+  <RimTube.RemoveMedia>從媒體庫刪除（含保存檔案）…</RimTube.RemoveMedia>
+  <RimTube.RemoveMediaConfirm>將「{0}」從媒體庫與所有歌單刪除，並刪除 RimTube 保存的音樂、影片與字幕？
+原始匯入檔案、遊戲資產及其他曲目仍共用的檔案會保留。</RimTube.RemoveMediaConfirm>
+  <RimTube.RemovingMedia>正在等待播放器釋放檔案並刪除媒體…</RimTube.RemovingMedia>
+  <RimTube.NewPlaylistMessage>新清單</RimTube.NewPlaylistMessage>
+  <RimTube.CouldNotReadTheLibraryOriginalFilesAre>音樂庫讀取失敗，已保護原檔；請備份並修復，或改用其他資料夾。</RimTube.CouldNotReadTheLibraryOriginalFilesAre>
+  <RimTube.EverydayMusic>一般音樂</RimTube.EverydayMusic>
+  <RimTube.CombatMusic>戰鬥音樂</RimTube.CombatMusic>
+  <RimTube.AnotherGameProcessIsUsingThisLibraryOpened>另一個遊戲程序正在使用此音樂庫；本次以唯讀開啟，避免覆蓋清單。</RimTube.AnotherGameProcessIsUsingThisLibraryOpened>
+  <RimTube.TheAudioFilenameContainsADisallowedPath>音訊檔名含有不允許的路徑。</RimTube.TheAudioFilenameContainsADisallowedPath>
+  <RimTube.TheTargetPlaylistWasRemoved>目標歌單已移除。</RimTube.TheTargetPlaylistWasRemoved>
+  <RimTube.ImportMedia>匯入媒體</RimTube.ImportMedia>
+  <RimTube.SelectAPlaylistFirst>請先選擇清單。</RimTube.SelectAPlaylistFirst>
+  <RimTube.AutomaticSourcePlaylistsAreManagedByTheGame>自動來源歌單由遊戲音樂目錄管理，請加入自訂歌單。</RimTube.AutomaticSourcePlaylistsAreManagedByTheGame>
+  <RimTube.SynchronizationComplete>同步完成</RimTube.SynchronizationComplete>
+  <RimTube.OnlyPartialResultsWereRetrievedExistingTracksAnd>只取得部分結果，保留原有曲目與順序</RimTube.OnlyPartialResultsWereRetrievedExistingTracksAnd>
+  <RimTube.TheAudioWasDeletedDownloadOrImportIt>音訊已由使用者刪除，可重新下載／匯入。</RimTube.TheAudioWasDeletedDownloadOrImportIt>
+  <RimTube.UnsupportedLibraryFormat>不支援的音樂庫格式。</RimTube.UnsupportedLibraryFormat>
+  <RimTube.TheTrackHasNoID>曲目缺少 ID。</RimTube.TheTrackHasNoID>
+  <RimTube.InvalidPlaylistID>清單 ID 無效。</RimTube.InvalidPlaylistID>
+  <RimTube.TheQualityLimitMustBeBetween144pAnd>畫質上限必須介於 144p 與 4320p。</RimTube.TheQualityLimitMustBeBetween144pAnd>
+  <RimTube.EnterACaptionLanguageCodeSuchAsZh>請輸入字幕語言代碼，例如 zh-TW、zh-Hans、en，或 off。</RimTube.EnterACaptionLanguageCodeSuchAsZh>
+  <RimTube.UnsupportedMediaAcquisitionMode>不支援的媒體取得方式。</RimTube.UnsupportedMediaAcquisitionMode>
+  <RimTube.TheSourceContainsInvalidPlaybackHeaders>來源包含無效的播放標頭。</RimTube.TheSourceContainsInvalidPlaybackHeaders>
+  <RimTube.ThisSourceHasNotBeenApprovedForThis>此來源尚未取得本次播放所需的確認，未開啟媒體。</RimTube.ThisSourceHasNotBeenApprovedForThis>
+  <RimTube.ThePlaybackSourceHasExpiredPrepareItAgain>播放來源已過期，請重新準備。</RimTube.ThePlaybackSourceHasExpiredPrepareItAgain>
+  <RimTube.ThePlaybackSourceIsMissing>播放來源不存在。</RimTube.ThePlaybackSourceIsMissing>
+  <RimTube.InvalidGameMusicSession>遊戲音樂 Session 無效。</RimTube.InvalidGameMusicSession>
+  <RimTube.UnsupportedNetworkMediaProtocol>不支援此網路媒體協定。</RimTube.UnsupportedNetworkMediaProtocol>
+  <RimTube.InvalidLocalSupplementaryMediaPath>本機附加媒體路徑無效。</RimTube.InvalidLocalSupplementaryMediaPath>
+  <RimTube.InvalidSupplementaryMediaURL>附加媒體網址無效。</RimTube.InvalidSupplementaryMediaURL>
+  <RimTube.TheAdapterForThisMusicSourceIsNot>尚未安裝此音樂來源的 Adapter。</RimTube.TheAdapterForThisMusicSourceIsNot>
+  <RimTube.CouldNotIdentifyThisSource>無法識別此來源。</RimTube.CouldNotIdentifyThisSource>
+  <RimTube.GameMusicAssetsCannotBeDeletedFromThe>遊戲音樂資產不能由媒體庫刪除。</RimTube.GameMusicAssetsCannotBeDeletedFromThe>
+  <RimTube.TheMediaPathIsOutsideTheLibrary>媒體路徑超出音樂庫。</RimTube.TheMediaPathIsOutsideTheLibrary>
+  <RimTube.MediaDeletionCannotTraverseDirectoryOrFileLinks>刪除媒體不能經過目錄或檔案連結。</RimTube.MediaDeletionCannotTraverseDirectoryOrFileLinks>
+  <RimTube.MpvIsNotConfiguredOrItsVersionCheck>mpv 未設定或版本檢查失敗；請設定 mpv.exe，或選擇本機播放後端。</RimTube.MpvIsNotConfiguredOrItsVersionCheck>
+  <RimTube.CouldNotConnectToMpvCheckTheTool>無法連線至 mpv，請檢查工具版本與路徑。</RimTube.CouldNotConnectToMpvCheckTheTool>
+  <RimTube.LocalAudioWasNotFound>找不到本機音訊。</RimTube.LocalAudioWasNotFound>
+  <RimTube.CouldNotOpenTheAudioCheckItsFormat>音訊開啟失敗，請確認格式及來源。</RimTube.CouldNotOpenTheAudioCheckItsFormat>
+  <RimTube.InvalidPlaybackPosition>無效的播放位置。</RimTube.InvalidPlaybackPosition>
+  <RimTube.InvalidVolume>無效的音量。</RimTube.InvalidVolume>
+  <RimTube.UnsupportedDiagnosticProperty>不支援的診斷屬性。</RimTube.UnsupportedDiagnosticProperty>
+  <RimTube.InvalidCaptionSize>字幕大小無效。</RimTube.InvalidCaptionSize>
+  <RimTube.MpvCouldNotCompleteTheOperationCheckThe>mpv 無法完成播放操作，請檢查音訊來源。</RimTube.MpvCouldNotCompleteTheOperationCheckThe>
+  <RimTube.MpvTimedOutStopPlaybackAndTryAgain>mpv 回應逾時，請停止後重試。</RimTube.MpvTimedOutStopPlaybackAndTryAgain>
+  <RimTube.DisconnectedFromMpvStartPlaybackAgain>mpv 連線中斷，請重新播放。</RimTube.DisconnectedFromMpvStartPlaybackAgain>
+  <RimTube.AudioPreparationTimedOutTryAgainOrChoose>音訊準備逾時，請重試或更換來源。</RimTube.AudioPreparationTimedOutTryAgainOrChoose>
+  <RimTube.MpvExitedOrDisconnectedCheckTheToolAnd>mpv 已退出或連線中斷；可檢查工具後重新播放。</RimTube.MpvExitedOrDisconnectedCheckTheToolAnd>
+  <RimTube.DisconnectedFromMpv>mpv 連線中斷。</RimTube.DisconnectedFromMpv>
+  <RimTube.TheAudioCannotBeDecodedOrItsSource>音訊無法解碼或來源不可用。</RimTube.TheAudioCannotBeDecodedOrItsSource>
+  <RimTube.CouldNotProtectThePlayerProcessMpvWas>無法建立播放器程序保護，未啟動 mpv。</RimTube.CouldNotProtectThePlayerProcessMpvWas>
+  <RimTube.CouldNotStartOrProtectTheMpvChild>無法啟動或保護 mpv 子程序。</RimTube.CouldNotStartOrProtectTheMpvChild>
+  <RimTube.Stopped>已停止</RimTube.Stopped>
+  <RimTube.Stopping>正在停止</RimTube.Stopping>
+  <RimTube.ThisSourceDoesNotSupportSeeking>此來源不支援定位。</RimTube.ThisSourceDoesNotSupportSeeking>
+  <RimTube.ThePlayerIsBusyTrySeekingAgainShortly>播放器忙碌，請稍後定位。</RimTube.ThePlayerIsBusyTrySeekingAgainShortly>
+  <RimTube.CombatVanillaMusic>戰鬥中：原版音樂</RimTube.CombatVanillaMusic>
+  <RimTube.VideoCoveredAutomaticallyPaused>影片暫藏：自動暫停</RimTube.VideoCoveredAutomaticallyPaused>
+  <RimTube.Paused>已暫停</RimTube.Paused>
+  <RimTube.TheSourceExpiredPreparingItAgain>來源已過期，重新準備。</RimTube.TheSourceExpiredPreparingItAgain>
+  <RimTube.NoPlayableSourcesInThePlaylist>清單中沒有可播放來源</RimTube.NoPlayableSourcesInThePlaylist>
+  <RimTube.ThePlaybackBackendDisconnectedCheckTheToolsAnd>播放後端中斷，請檢查工具後重試。</RimTube.ThePlaybackBackendDisconnectedCheckTheToolsAnd>
+  <RimTube.Buffering>正在緩衝</RimTube.Buffering>
+  <RimTube.PlayingCombatPlaylist>播放戰鬥清單</RimTube.PlayingCombatPlaylist>
+  <RimTube.Playing>播放中</RimTube.Playing>
+  <RimTube.PreparingPlaybackSource>準備播放來源</RimTube.PreparingPlaybackSource>
+  <RimTube.PlaybackFailedCheckTheSourceAndPlaybackTools>播放器操作失敗，請檢查來源與播放工具。</RimTube.PlaybackFailedCheckTheSourceAndPlaybackTools>
+  <RimTube.TheSourcePreviewIsIncompleteAndHasNo>來源預覽不完整，沒有可套用的歌曲；請重新查詢。</RimTube.TheSourcePreviewIsIncompleteAndHasNo>
+  <RimTube.TheTargetPlaylistWasRemovedQueryItAgain>目標清單已移除，請重新查詢。</RimTube.TheTargetPlaylistWasRemovedQueryItAgain>
+  <RimTube.ThePlaylistSourceChangedQueryItAgain>清單來源已變更，請重新查詢。</RimTube.ThePlaylistSourceChangedQueryItAgain>
+  <RimTube.ThisSourceDoesNotSupportOnlinePlaylistEnumeration>此來源尚未提供線上清單列舉能力。</RimTube.ThisSourceDoesNotSupportOnlinePlaylistEnumeration>
+  <RimTube.TheSourceReturnedTheSamePageAgainSynchronization>來源重複回傳同一頁，停止同步並保留原清單。</RimTube.TheSourceReturnedTheSamePageAgainSynchronization>
+  <RimTube.TheSourceReturnedAnIncompletePlaylist>來源回傳不完整清單。</RimTube.TheSourceReturnedAnIncompletePlaylist>
+  <RimTube.TheSourcePlaylistIdentityChangedSynchronizationStopped>來源清單識別不一致，停止同步。</RimTube.TheSourcePlaylistIdentityChangedSynchronizationStopped>
+  <RimTube.ThePreviewLimitWasReachedTheOriginalPlaylist>超過本次預覽上限，保留原有清單，不套用移除或排序。</RimTube.ThePreviewLimitWasReachedTheOriginalPlaylist>
+  <RimTube.SomeSourceEntriesAreUnavailableExistingTracksAnd>來源有部分項目無法取得，保留原有曲目與順序。</RimTube.SomeSourceEntriesAreUnavailableExistingTracksAnd>
+  <RimTube.TheCompletePlaylistIsReadyYouCanPreview>完整清單已取得，可預覽同步差異。</RimTube.TheCompletePlaylistIsReadyYouCanPreview>
+  <RimTube.TheSourceOmittedTheNextPageTheOriginal>來源缺少後續頁，保留原有清單。</RimTube.TheSourceOmittedTheNextPageTheOriginal>
+  <RimTube.TooManySourcePagesEnumerationStoppedTheOriginal>來源頁數過多，已停止列舉並保留原清單。</RimTube.TooManySourcePagesEnumerationStoppedTheOriginal>
+  <RimTube.ThePlaylistSourceDisconnectedTheOriginalPlaylistWas>清單來源中斷，已保留原清單；目前預覽僅含部分結果。</RimTube.ThePlaylistSourceDisconnectedTheOriginalPlaylistWas>
+  <RimTube.InvalidSavedMediaPath>保存媒體路徑無效。</RimTube.InvalidSavedMediaPath>
+  <RimTube.InvalidSavedCaptionPath>保存字幕路徑無效。</RimTube.InvalidSavedCaptionPath>
+  <RimTube.NoLocalCopyExistsForThisMediaType>尚無所選類型的本機副本，請先下載或切換為串流。</RimTube.NoLocalCopyExistsForThisMediaType>
+  <RimTube.UnknownSource>未知來源</RimTube.UnknownSource>
+  <RimTube.SourceNotLoaded>來源未載入</RimTube.SourceNotLoaded>
+  <RimTube.GameAsset>遊戲資產</RimTube.GameAsset>
+  <RimTube.SavedMusicAndVideo>已保存音樂＋影片</RimTube.SavedMusicAndVideo>
+  <RimTube.SavedVideo>已保存影片</RimTube.SavedVideo>
+  <RimTube.SavedMusic>已保存音樂</RimTube.SavedMusic>
+  <RimTube.OnlineSource>線上來源</RimTube.OnlineSource>
+  <RimTube.LocalCopyMissing>缺少本機副本</RimTube.LocalCopyMissing>
+  <RimTube.Live>直播</RimTube.Live>
+  <RimTube.Music>音樂</RimTube.Music>
+  <RimTube.NCategory>
+分類：</RimTube.NCategory>
+  <RimTube.OriginalCombatTrack> · 原曲戰鬥標記</RimTube.OriginalCombatTrack>
+  <RimTube.UnsupportedInterfaceSettingsFormat>不支援的 UI 設定格式</RimTube.UnsupportedInterfaceSettingsFormat>
+  <RimTube.CouldNotReadInterfaceSettingsTheOriginalFile>介面設定讀取失敗，已保留原檔；本次使用預設外觀。</RimTube.CouldNotReadInterfaceSettingsTheOriginalFile>
+  <RimTube.InvalidToolArguments>無效的工具參數。</RimTube.InvalidToolArguments>
+  <RimTube.CouldNotStartTheExternalTool>無法啟動外部工具。</RimTube.CouldNotStartTheExternalTool>
+  <RimTube.TheExternalToolTimedOutTryAgainLater>外部工具超時，可稍後重試。</RimTube.TheExternalToolTimedOutTryAgainLater>
+  <RimTube.EnterAValidYouTubeURL>請輸入有效的 YouTube 網址。</RimTube.EnterAValidYouTubeURL>
+  <RimTube.OnlyYouTubeAndYoutuBeURLsAreSupported>目前只接受 YouTube／youtu.be 網址。</RimTube.OnlyYouTubeAndYoutuBeURLsAreSupported>
+  <RimTube.TheURLContainsNoValidPlaylistID>網址未包含有效的播放清單 ID。</RimTube.TheURLContainsNoValidPlaylistID>
+  <RimTube.TheURLContainsNoValidVideoID>網址未包含有效的影片 ID。</RimTube.TheURLContainsNoValidVideoID>
+  <RimTube.TheLegacyYouTubeParserIsDisabledUseThe>舊版 YouTube 解析已停用；請使用選裝來源介面。</RimTube.TheLegacyYouTubeParserIsDisabledUseThe>
+  <RimTube.PermanentYouTubeDownloadsAreDisabledInThisLegacy>YouTube 永久下載不在本次實作範圍內。</RimTube.PermanentYouTubeDownloadsAreDisabledInThisLegacy>
+  <RimTube.TheToolDidNotProducePlayableOGGAudio>工具未產生可播放的 OGG 音訊。</RimTube.TheToolDidNotProducePlayableOGGAudio>
+  <RimTube.LocalAudioConversionFailed>本機音訊轉檔失敗：</RimTube.LocalAudioConversionFailed>
+  <RimTube.UnknownError>未知錯誤</RimTube.UnknownError>
+  <RimTube.URL>[網址]</RimTube.URL>
+  <RimTube.PlaylistPreview>清單預覽：</RimTube.PlaylistPreview>
+  <RimTube.Changed>有變動</RimTube.Changed>
+  <RimTube.Unchanged>未變動</RimTube.Unchanged>
+  <RimTube.AddNewTracksFromSource>加入來源新增歌曲</RimTube.AddNewTracksFromSource>
+  <RimTube.RemoveEntriesDeletedAtSourceKeepAudioFiles>移除來源已刪除的清單項目（音檔保留）</RimTube.RemoveEntriesDeletedAtSourceKeepAudioFiles>
+  <RimTube.MatchSourceOrderKeepLocalExtrasAtThe>依來源順序排序（本地額外項目保留在尾端）</RimTube.MatchSourceOrderKeepLocalExtrasAtThe>
+  <RimTube.OnlyPlaylistMetadataIsSavedYouTubeAudioIs>僅保存清單資訊，不下載 YouTube 音訊。</RimTube.OnlyPlaylistMetadataIsSavedYouTubeAudioIs>
+  <RimTube.ApplyChanges>套用變更</RimTube.ApplyChanges>
+  <RimTube.ApplyAndPlay>套用並播放</RimTube.ApplyAndPlay>
+  <RimTube.TheLibraryChangedReadThePlaylistAgain>音樂庫已切換，請重新讀取歌單。</RimTube.TheLibraryChangedReadThePlaylistAgain>
+  <RimTube.SwitchToTheMpvBackendForYouTubeStreaming>YouTube 串流請先切換為 mpv 後端；也可只套用變更保存歌單。</RimTube.SwitchToTheMpvBackendForYouTubeStreaming>
+  <RimTube.WaitingMessage>等待處理</RimTube.WaitingMessage>
+  <RimTube.TheLastSessionEndedBeforeCompletionRetryTo>上次遊戲未完成，按重試繼續。</RimTube.TheLastSessionEndedBeforeCompletionRetryTo>
+  <RimTube.LegacyYouTubeDownloadJobsAreDisabledSourceMetadata>舊版 YouTube 下載工作已停用；來源資料保留。</RimTube.LegacyYouTubeDownloadJobsAreDisabledSourceMetadata>
+  <RimTube.CouldNotReadTheDownloadQueue>下載佇列讀取失敗：</RimTube.CouldNotReadTheDownloadQueue>
+  <RimTube.CreateDownloadsExplicitlyThroughYouTubeMediaOptionsThis>請透過 YouTube 媒體選項明確建立下載工作；此入口只處理本機匯入。</RimTube.CreateDownloadsExplicitlyThroughYouTubeMediaOptionsThis>
+  <RimTube.SelectAYouTubeTrack>請選擇 YouTube 曲目。</RimTube.SelectAYouTubeTrack>
+  <RimTube.AlreadySavedDuplicateDownloadSkipped>已保存，略過重複下載</RimTube.AlreadySavedDuplicateDownloadSkipped>
+  <RimTube.ThePlaylistWasRemoved>歌單已移除。</RimTube.ThePlaylistWasRemoved>
+  <RimTube.Canceling>正在取消</RimTube.Canceling>
+  <RimTube.LegacyYouTubeDownloadJobsAreDisabledAndWill>舊版 YouTube 下載工作已停用，不會重新下載。</RimTube.LegacyYouTubeDownloadJobsAreDisabledAndWill>
+  <RimTube.WaitingToRetry>等待重試</RimTube.WaitingToRetry>
+  <RimTube.TheTrackNoLongerExists>曲目已不存在</RimTube.TheTrackNoLongerExists>
+  <RimTube.MediaSavedStartPlaybackManually>媒體已保存，請手動播放。</RimTube.MediaSavedStartPlaybackManually>
+  <RimTube.PreparingMedia>準備媒體</RimTube.PreparingMedia>
+  <RimTube.YouTubeDownloadsAreDisabledInThisLegacyEntry>YouTube 永久下載未啟用。</RimTube.YouTubeDownloadsAreDisabledInThisLegacyEntry>
+  <RimTube.OriginalAudioNotFoundSelectTheFileAgain>找不到原始音訊，請重新選擇檔案。</RimTube.OriginalAudioNotFoundSelectTheFileAgain>
+  <RimTube.TheAudioFileIsMissingOrEmpty>音訊檔案不存在或為空。</RimTube.TheAudioFileIsMissingOrEmpty>
+  <RimTube.TheImportedTrackWasNotFound>找不到匯入曲目。</RimTube.TheImportedTrackWasNotFound>
+  <RimTube.Complete>已完成</RimTube.Complete>
+  <RimTube.MediaSavedButAutomaticPlaybackFailedStartIt>媒體已保存，但自動播放未成功，請手動播放。</RimTube.MediaSavedButAutomaticPlaybackFailedStartIt>
+  <RimTube.GameMusicBaseGameDLCActiveMods>遊戲音樂 · 原版／DLC／已啟用模組</RimTube.GameMusicBaseGameDLCActiveMods>
+  <RimTube.PlaylistRemoved>歌單已移除</RimTube.PlaylistRemoved>
+  <RimTube.OnlyMusicDefinitionsFromActiveContentAreListed>只列出已啟用內容的音樂定義；加入歌單或試聽不會下載、匯出遊戲資產。</RimTube.OnlyMusicDefinitionsFromActiveContentAreListed>
+  <RimTube.PasteAYouTubeVideoOrPlaylistURL>貼上 YouTube 單曲或歌單網址</RimTube.PasteAYouTubeVideoOrPlaylistURL>
+  <RimTube.BuildingCatalogSnapshot>正在建立目錄快照…</RimTube.BuildingCatalogSnapshot>
+  <RimTube.NoMatchingTracksClearFiltersImportMediaOr>沒有符合條件的曲目。可清除篩選、匯入媒體，或到「遊戲音樂」選曲。</RimTube.NoMatchingTracksClearFiltersImportMediaOr>
+  <RimTube.TheTrackWasRemovedRefreshTheList>曲目已移除，請重新整理。</RimTube.TheTrackWasRemovedRefreshTheList>
+  <RimTube.AddToLibrary>加入音樂庫</RimTube.AddToLibrary>
+  <RimTube.AddTo>加入 </RimTube.AddTo>
+  <RimTube.MediaOptionsStreamDownloadQualityCaptions>媒體選項（串流／下載／畫質／字幕）</RimTube.MediaOptionsStreamDownloadQualityCaptions>
+  <RimTube.TrackDetails>歌曲資訊</RimTube.TrackDetails>
+  <RimTube.RemoveFromThisPlaylistKeepFiles>從這份歌單移除（保留檔案）</RimTube.RemoveFromThisPlaylistKeepFiles>
+  <RimTube.MoveUpInPlaylist>在歌單上移</RimTube.MoveUpInPlaylist>
+  <RimTube.MoveDownInPlaylist>在歌單下移</RimTube.MoveDownInPlaylist>
+  <RimTube.DeleteSavedMusicCopy>刪除已保存的音樂副本…</RimTube.DeleteSavedMusicCopy>
+  <RimTube.DeleteOnlyRimTubeSSavedMusicCopyNPlaylists>只刪除 RimTube 保存的音樂副本？
+歌單、影片與原始匯入檔案保留。</RimTube.DeleteOnlyRimTubeSSavedMusicCopyNPlaylists>
+  <RimTube.DeleteSavedVideoCopy>刪除已保存的影片副本…</RimTube.DeleteSavedVideoCopy>
+  <RimTube.DeleteOnlyRimTubeSSavedVideoCopyNPlaylists>只刪除 RimTube 保存的影片副本？
+歌單與音樂副本保留。</RimTube.DeleteOnlyRimTubeSSavedVideoCopyNPlaylists>
+  <RimTube.DownloadPlaylistSkipSavedCopies>下載整份歌單（略過已保存）</RimTube.DownloadPlaylistSkipSavedCopies>
+  <RimTube.DeletePlaylistKeepTracksAndFiles>刪除歌單（保留曲目與檔案）…</RimTube.DeletePlaylistKeepTracksAndFiles>
+  <RimTube.DeleteThisPlaylistTracksAndAllFilesWill>刪除此歌單？曲目及所有檔案保留。</RimTube.DeleteThisPlaylistTracksAndAllFilesWill>
+  <RimTube.AssignAnotherEverydayCombatPlaylistFirst>請先指定其他日常／戰鬥清單。</RimTube.AssignAnotherEverydayCombatPlaylistFirst>
+  <RimTube.DownloadPlaylist>下載整份歌單：</RimTube.DownloadPlaylist>
+  <RimTube.CaptionsUseLanguagesSuppliedByTheSourceLive>字幕只顯示來源提供的語言，沒有時不會憑空產生。直播使用串流，無法下載錄製或任意跳轉。隱藏畫面會繼續播放影音，停止播放才會釋放解碼資源。</RimTube.CaptionsUseLanguagesSuppliedByTheSourceLive>
+  <RimTube.DeleteTheLocalMusicCopyPlaylistsAndVideo>刪除本機音樂副本？歌單與影片保留。</RimTube.DeleteTheLocalMusicCopyPlaylistsAndVideo>
+  <RimTube.DeleteTheLocalVideoCopyPlaylistsAndMusic>刪除本機影片副本？歌單與音樂保留。</RimTube.DeleteTheLocalVideoCopyPlaylistsAndMusic>
+  <RimTube.TheLibraryChangedOpenMediaOptionsAgain>音樂庫已切換，請重新開啟媒體選項。</RimTube.TheLibraryChangedOpenMediaOptionsAgain>
+  <RimTube.SwitchToTheMpvBackendForVideo>影片請切換為 mpv 播放後端。</RimTube.SwitchToTheMpvBackendForVideo>
+  <RimTube.TooManyPlaybackOperationsTryAgainShortly>播放操作過多，請稍後重試。</RimTube.TooManyPlaybackOperationsTryAgainShortly>
+  <RimTube.SwitchToTheMpvBackendToPlayVideo>影片播放請切換為 mpv 後端。</RimTube.SwitchToTheMpvBackendToPlayVideo>
+  <RimTube.TheNativeBackendOnlySupportsImportedLocalAudio>本機播放後端僅支援已匯入的本機音訊，線上來源請使用 mpv。</RimTube.TheNativeBackendOnlySupportsImportedLocalAudio>
+  <RimTube.TheLoadedGameTrackWasNotFoundCheck>找不到已載入的遊戲歌曲，請確認來源模組。</RimTube.TheLoadedGameTrackWasNotFoundCheck>
+  <RimTube.CouldNotDecodeTheLocalAudio>本機音訊無法解碼。</RimTube.CouldNotDecodeTheLocalAudio>
+  <RimTube.PrepareLocalAudioFirst>請先準備本機音訊。</RimTube.PrepareLocalAudioFirst>
+  <RimTube.TheLibraryChangedOpenTheMenuAgain>音樂庫已切換，請重新開啟選單。</RimTube.TheLibraryChangedOpenTheMenuAgain>
+  <RimTube.DownloadImportJobsCurrentPlaybackContinuesAfterCompletion>下載／匯入工作 · 完成後不打斷目前播放</RimTube.DownloadImportJobsCurrentPlaybackContinuesAfterCompletion>
+  <RimTube.EnterAPlaylistName>請輸入歌單名稱。</RimTube.EnterAPlaylistName>
+  <RimTube.RimTubeInitializationFailed>[RimTube] 初始化失敗：</RimTube.RimTubeInitializationFailed>
+  <RimTube.RimTubeMusicPlayerNOpenTheFullPlayerTo>RimTube 音樂播放器
+設定、播放工具與音樂庫管理請從完整播放器開啟。</RimTube.RimTubeMusicPlayerNOpenTheFullPlayerTo>
+  <RimTube.OpenPlayer>開啟播放器</RimTube.OpenPlayer>
+  <RimTube.MusicData>音樂資料：</RimTube.MusicData>
+  <RimTube.RimTubeLibraryInitializationFailed>[RimTube] 音樂庫初始化失敗：</RimTube.RimTubeLibraryInitializationFailed>
+  <RimTube.RimTubePlayerError>[RimTube] 播放器錯誤：</RimTube.RimTubePlayerError>
+  <RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube>開發版資料夾必須位於 RimTube 專案內。</RimTube.DevelopmentDataFoldersMustBeInsideTheRimTube>
+  <RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA>開發版音樂庫不可使用目錄連結，請選專案內的一般資料夾。</RimTube.DevelopmentLibrariesCannotUseDirectoryLinksChooseA>
+  <RimTube.FinishMediaDeletionAndCompleteOrCancelImport>請先完成媒體刪除，並完成或取消匯入工作，再切換音樂庫。</RimTube.FinishMediaDeletionAndCompleteOrCancelImport>
+  <RimTube.TheOperationQueueIsBusyTryAgainShortly>操作佇列忙碌，請稍候。</RimTube.TheOperationQueueIsBusyTryAgainShortly>
+  <RimTube.TheLibraryChangedTryTheOperationAgain>音樂庫已切換，請重新操作。</RimTube.TheLibraryChangedTryTheOperationAgain>
+  <RimTube.LocalAudioNotFound>找不到本機音訊：</RimTube.LocalAudioNotFound>
+  <RimTube.ReadingYouTubePlaylist>正在讀取 YouTube 歌單，請稍候…</RimTube.ReadingYouTubePlaylist>
+  <RimTube.YouTubePlaylistLookupFailedCheckTheToolsAnd>YouTube 歌單查詢失敗，請確認工具及網路；原清單已保留。</RimTube.YouTubePlaylistLookupFailedCheckTheToolsAnd>
+  <RimTube.SwitchToTheMpvBackendInSettingsFor>YouTube 串流請先在設定將播放後端切換為 mpv。</RimTube.SwitchToTheMpvBackendInSettingsFor>
+  <RimTube.GettingYouTubeTrackInformation>正在取得 YouTube 歌曲資訊…</RimTube.GettingYouTubeTrackInformation>
+  <RimTube.TheTargetPlaylistWasRemovedAddTheTrack>目標清單已移除，請重新加入歌曲。</RimTube.TheTargetPlaylistWasRemovedAddTheTrack>
+  <RimTube.YouTubeLookupFailedCheckThePlaybackToolsAnd>YouTube 查詢失敗，請確認播放工具及網路。</RimTube.YouTubeLookupFailedCheckThePlaybackToolsAnd>
+  <RimTube.DownloadQueuedViewProgressOrCancelItIn>已加入下載工作；可在「匯入工作」查看進度或取消。</RimTube.DownloadQueuedViewProgressOrCancelItIn>
+  <RimTube.ThisMediaIsBeingDeletedPleaseWait>該媒體正在刪除，請稍候。</RimTube.ThisMediaIsBeingDeletedPleaseWait>
+  <RimTube.TheCurrentVideoChangedOrStoppedOpenThe>目前影片已切換或停止，請重新開啟畫質選單。</RimTube.TheCurrentVideoChangedOrStoppedOpenThe>
+  <RimTube.TheCurrentVideoChangedOrStoppedOpenCaption>目前影片已切換或停止，請重新開啟字幕選項。</RimTube.TheCurrentVideoChangedOrStoppedOpenCaption>
+  <RimTube.ThisIsNotGameMusic>這不是遊戲音樂。</RimTube.ThisIsNotGameMusic>
+  <RimTube.AudioForThisSourceHasNotLoaded>此來源的音訊尚未載入。</RimTube.AudioForThisSourceHasNotLoaded>
+  <RimTube.CompleteOrCancelThisVideoSDownloadFirst>請先完成或取消此影片的下載工作。</RimTube.CompleteOrCancelThisVideoSDownloadFirst>
+  <RimTube.CompleteOrCancelThisTrackSDownloadImport>請先完成或取消該曲目的下載／匯入工作。</RimTube.CompleteOrCancelThisTrackSDownloadImport>
+  <RimTube.WaitForTheCurrentMediaDeletionToFinish>請先等待目前的媒體刪除完成。</RimTube.WaitForTheCurrentMediaDeletionToFinish>
+  <RimTube.TheSourceTrackHasNoValidVideoID>來源曲目缺少有效的影片 ID。</RimTube.TheSourceTrackHasNoValidVideoID>
+  <RimTube.CancelThisTrackSDownloadFirst>請先取消此歌曲的下載工作。</RimTube.CancelThisTrackSDownloadFirst>
+  <RimTube.NYouTubeTracksUseYtDlpForResolutionAnd>
+YouTube 單曲使用 yt-dlp 解析及 mpv 串流；受限內容不會自動登入。</RimTube.NYouTubeTracksUseYtDlpForResolutionAnd>
+  <RimTube.RimTubeSaveFailed>[RimTube] 儲存失敗：</RimTube.RimTubeSaveFailed>
+  <RimTube.ShortcutsClickThenPressANewCombinationDisabled>快捷鍵 · 點擊後按下新組合鍵（輸入文字時停用）</RimTube.ShortcutsClickThenPressANewCombinationDisabled>
+  <RimTube.HiddenVideoContinuesAudioAndDecodingStopReleases>隱藏影片會繼續聲音及解碼；停止才釋放解碼資源。
+容量是已保存音訊與影片，不是 RAM 緩衝。移除歌單不刪檔案。
+遊戲音樂使用引擎已載入資產，不會下載或匯出。</RimTube.HiddenVideoContinuesAudioAndDecodingStopReleases>
+  <RimTube.AllFourThemesShareTheSameControlsAutomatic>四套主題共用操作；本版沒有科技自動換膚或影片半透明。
+UI 效能與焦點、影片遮擋仍待遊戲驗收。</RimTube.AllFourThemesShareTheSameControlsAutomatic>
+  <RimTube.BaseGameRimWorld>原版 RimWorld</RimTube.BaseGameRimWorld>
+  <RimTube.Mod>模組 · </RimTube.Mod>
+  <RimTube.UpdatedBySourceMessage>已依來源更新</RimTube.UpdatedBySourceMessage>
+  <RimTube.SourceNotLoadedPlaylistAndTrackReferencesPreserved>來源未載入；保留歌單與曲目引用</RimTube.SourceNotLoadedPlaylistAndTrackReferencesPreserved>
+  <RimTube.TheGameMusicSourceIsDisabledOrRemoved>遊戲音樂來源未啟用或已移除。</RimTube.TheGameMusicSourceIsDisabledOrRemoved>
+  <RimTube.ThisGameTrackHasNoLoadedAudioCheck>此遊戲音樂沒有已載入的音訊，請確認 DLC／模組已啟用。</RimTube.ThisGameTrackHasNoLoadedAudioCheck>
+  <RimTube.UseTheGameMusicCatalog>請使用遊戲音樂目錄。</RimTube.UseTheGameMusicCatalog>
+  <RimTube.UsesLoadedGameMusicNoExternalToolsNeeded>使用遊戲已載入音樂，不需外部工具</RimTube.UsesLoadedGameMusicNoExternalToolsNeeded>
+  <RimTube.UseStreamingForLiveContentUnlimitedRecordingJobs>直播請使用串流；不建立無限錄製工作。</RimTube.UseStreamingForLiveContentUnlimitedRecordingJobs>
+  <RimTube.MediaDownloadFailedExistingCopiesWerePreservedCheck>媒體下載失敗；原副本保留。請檢查來源、網路及 yt-dlp／FFmpeg 版本。</RimTube.MediaDownloadFailedExistingCopiesWerePreservedCheck>
+  <RimTube.TheDownloadDidNotProduceCompleteMediaExisting>下載未產生完整媒體，未變更原副本。</RimTube.TheDownloadDidNotProduceCompleteMediaExisting>
+  <RimTube.LocalSourcesDoNotProvideOnlinePlaylists>本機來源不提供網路播放清單。</RimTube.LocalSourcesDoNotProvideOnlinePlaylists>
+  <RimTube.ImportedLocalAudioWasNotFoundImportIt>找不到已匯入的本機音訊，請重新匯入。</RimTube.ImportedLocalAudioWasNotFoundImportIt>
+  <RimTube.LocalMusicLibraryAvailable>本機音樂庫可用</RimTube.LocalMusicLibraryAvailable>
+  <RimTube.ThePlaylistPreviewExpiredReadItAgainThe>歌單預覽已失效，請重新讀取；原清單已保留。</RimTube.ThePlaylistPreviewExpiredReadItAgainThe>
+  <RimTube.ThisIsNotAYouTubeTrack>這不是 YouTube 曲目。</RimTube.ThisIsNotAYouTubeTrack>
+  <RimTube.FinishDownloadingFirstOrSelectStreaming>請先完成下載，或改選串流播放。</RimTube.FinishDownloadingFirstOrSelectStreaming>
+  <RimTube.SelectTheMpvBackendInSettingsForYouTube>YouTube 串流請在設定切換為 mpv 播放後端。</RimTube.SelectTheMpvBackendInSettingsForYouTube>
+  <RimTube.SetTheYtDlpExePathInSettings>請在設定指定 yt-dlp.exe，再重試歌單匯入。</RimTube.SetTheYtDlpExePathInSettings>
+  <RimTube.YouTubePlaylistLookupTimedOutTryAgainLater>YouTube 歌單查詢逾時，請稍後重試；原清單已保留。</RimTube.YouTubePlaylistLookupTimedOutTryAgainLater>
+  <RimTube.CouldNotStartYtDlpCheckTheTool>無法啟動 yt-dlp，請檢查工具路徑。</RimTube.CouldNotStartYtDlpCheckTheTool>
+  <RimTube.CouldNotReadTheYouTubePlaylistCheckPublic>無法讀取 YouTube 歌單，請確認連結可直接存取及網路正常；原清單已保留。</RimTube.CouldNotReadTheYouTubePlaylistCheckPublic>
+  <RimTube.YouTubeReturnedIncompletePlaylistIdentificationOrContentThe>YouTube 回傳的歌單識別或內容不完整，原清單已保留。</RimTube.YouTubeReturnedIncompletePlaylistIdentificationOrContentThe>
+  <RimTube.ThisPlaylistRequiresLoginOrHasAccessRestrictions>此歌單需要登入或受到存取限制，本版只讀取可直接存取的歌單。</RimTube.ThisPlaylistRequiresLoginOrHasAccessRestrictions>
+  <RimTube.YouTubePlaylistMessage>YouTube 清單</RimTube.YouTubePlaylistMessage>
+  <RimTube.TheFullPlaylistWasReadAudioStreamsAre>已讀取完整歌單，播放時才取得音訊串流。</RimTube.TheFullPlaylistWasReadAudioStreamsAre>
+  <RimTube.ThePlaylistContainsHiddenUnavailableEntriesSourceWarnings>歌單有隱藏／無法取得的項目、來源警告或超過 10000 首上限；可加入已讀取歌曲，保留原有項目與順序。</RimTube.ThePlaylistContainsHiddenUnavailableEntriesSourceWarnings>
+  <RimTube.SetTheYtDlpExePathInSettingsMessage>請在設定指定 yt-dlp.exe，再重試 YouTube 播放。</RimTube.SetTheYtDlpExePathInSettingsMessage>
+  <RimTube.TheConfiguredDenoExecutableWasNotFoundCorrect>找不到設定的 JavaScript 執行檔，請修正 JavaScript 工具路徑。</RimTube.TheConfiguredDenoExecutableWasNotFoundCorrect>
+  <RimTube.YouTubeResolutionTimedOutCheckYourNetworkAnd>YouTube 解析逾時，請檢查網路後重試。</RimTube.YouTubeResolutionTimedOutCheckYourNetworkAnd>
+  <RimTube.ThisYouTubeContentRequiresLoginOrHasAccess>此 YouTube 內容需要登入或受到存取限制，本版不讀取 Cookie 或繞過限制。</RimTube.ThisYouTubeContentRequiresLoginOrHasAccess>
+  <RimTube.YouTubeSuppliedNoPlayablePublicAudioCheckThe>YouTube 未提供可播放的公開音訊，請檢查網址、網路，以及 yt-dlp／JavaScript 工具版本後重試。</RimTube.YouTubeSuppliedNoPlayablePublicAudioCheckThe>
+  <RimTube.TheYouTubeToolReturnedIncompleteTrackInformationUpdate>YouTube 工具回傳的歌曲資訊不完整，請更新工具後重試。</RimTube.TheYouTubeToolReturnedIncompleteTrackInformationUpdate>
+  <RimTube.TheResolvedYouTubeTrackDoesNotMatchThe>解析結果與要求的 YouTube 曲目不一致。</RimTube.TheResolvedYouTubeTrackDoesNotMatchThe>
+  <RimTube.ThisLiveStreamPremiereHasNotStartedTry>此直播／首播尚未開始，請開始後重試。</RimTube.ThisLiveStreamPremiereHasNotStartedTry>
+  <RimTube.ThisYouTubeContentIsNotDirectlyAccessiblePublic>此 YouTube 內容不是可直接存取的公開音訊。</RimTube.ThisYouTubeContentIsNotDirectlyAccessiblePublic>
+  <RimTube.TheSourceProvidesNoSupportedSeparateAudioStream>來源未提供支援的獨立音訊串流。</RimTube.TheSourceProvidesNoSupportedSeparateAudioStream>
+  <RimTube.UnsupportedCaptionSourceURL>字幕來源網址不受支援。</RimTube.UnsupportedCaptionSourceURL>
+  <RimTube.TheSourceProvidesNoVideoForTheSelected>來源未提供所選畫質的影片。</RimTube.TheSourceProvidesNoVideoForTheSelected>
+  <RimTube.TheSourceHasNoMediaLocation>來源沒有媒體位址。</RimTube.TheSourceHasNoMediaLocation>
+  <RimTube.TheYouTubeToolReturnedNoSupportedMediaLocation>YouTube 工具未回傳支援的媒體位址。</RimTube.TheYouTubeToolReturnedNoSupportedMediaLocation>
+  <RimTube.GameMusicMessage>遊戲音樂</RimTube.GameMusicMessage>
+  <RimTube.LocalAudio>本機音訊</RimTube.LocalAudio>
+  <RimTube.Title>標題</RimTube.Title>
+  <RimTube.Category>分類</RimTube.Category>
+  <RimTube.UsesLoadedGameMusicDefinitionsGameAssetsAre>由遊戲已載入的音樂定義提供，不下載、不匯出或刪除遊戲資產。</RimTube.UsesLoadedGameMusicDefinitionsGameAssetsAre>
+  <RimTube.SourceSavedUseMediaOptionsToChooseStreaming>來源已保存；從媒體選項選擇串流／下載、音樂／影片、畫質及字幕。</RimTube.SourceSavedUseMediaOptionsToChooseStreaming>
+  <RimTube.LibraryCopiesWorkOfflineDeletingACopyDoes>音樂庫副本可離線使用；刪除副本不影響原始匯入檔案。</RimTube.LibraryCopiesWorkOfflineDeletingACopyDoes>
+  <RimTube.TheLibraryOrTrackChangedOpenThisWindow>音樂庫或曲目已變更，請重新開啟。</RimTube.TheLibraryOrTrackChangedOpenThisWindow>
+  <RimTube.SetShortcut>設定快捷鍵：</RimTube.SetShortcut>
+  <RimTube.PressANewKeyCombinationEscCancelsBackspace>按下新的組合鍵。Esc 取消，Backspace 清除。
+請避開遊戲及其他模組的快捷鍵。</RimTube.PressANewKeyCombinationEscCancelsBackspace>
+  <RimTube.ThisCombinationIsAlreadyAssignedToAnotherRimTube>此組合鍵已被 RimTube 的其他操作使用。</RimTube.ThisCombinationIsAlreadyAssignedToAnotherRimTube>
+  <RimTube.Auto> 【自動】</RimTube.Auto>
+  <RimTube.Everyday> 【日常】</RimTube.Everyday>
+  <RimTube.Combat> 【戰鬥】</RimTube.Combat>
+  <RimTube.LocalPlaylist>本機歌單</RimTube.LocalPlaylist>
+  <RimTube.StorageNotCalculatedYet>容量尚未統計</RimTube.StorageNotCalculatedYet>
+  <RimTube.PreparingMusicLibrary>準備音樂庫…</RimTube.PreparingMusicLibrary>
+  <RimTube.CatalogUpdateFailedPreviousResultsWereKeptTry>目錄更新失敗，保留上次結果；可按重新整理。</RimTube.CatalogUpdateFailedPreviousResultsWereKeptTry>
+  <RimTube.StorageCalculationFailedTryRefreshing>容量統計失敗，可重新整理</RimTube.StorageCalculationFailedTryRefreshing>
+  <RimTube.SavedAudioAndVideo>已保存音訊＋影片：</RimTube.SavedAudioAndVideo>
+  <RimTube.NoTrackSelected>尚未選擇曲目</RimTube.NoTrackSelected>
+  <RimTube.CombatMessage>戰鬥 · </RimTube.CombatMessage>
+  <RimTube.NNote>
+提示：</RimTube.NNote>
+  <RimTube.CouldNotSaveInterfacePreferences>介面偏好儲存失敗：</RimTube.CouldNotSaveInterfacePreferences>
+  <RimTube.StateIdle>待命</RimTube.StateIdle>
+  <RimTube.StateInitializing>初始化中</RimTube.StateInitializing>
+  <RimTube.StatePreparing>準備中</RimTube.StatePreparing>
+  <RimTube.StateReady>就緒</RimTube.StateReady>
+  <RimTube.StateEnded>播放結束</RimTube.StateEnded>
+  <RimTube.StateDisposed>已關閉</RimTube.StateDisposed>
+  <RimTube.SyncComplete>同步完成</RimTube.SyncComplete>
+  <RimTube.SyncPartial>部分同步</RimTube.SyncPartial>
+  <RimTube.SyncNever>尚未同步</RimTube.SyncNever>
+  <RimTube.SyncAdapterRequired>需要來源介面</RimTube.SyncAdapterRequired>
+  <RimTube.ToolNotFound>找不到 {0}，請設定工具完整路徑。</RimTube.ToolNotFound>
+  <RimTube.ToolAvailable>{0} 可用</RimTube.ToolAvailable>
+  <RimTube.ToolVersionFailed>{0} 版本檢查失敗</RimTube.ToolVersionFailed>
+  <RimTube.ToolStartFailed>{0} 無法啟動或檢查逾時，請確認工具路徑。</RimTube.ToolStartFailed>
+  <RimTube.ToolPathRequired>請在設定指定 {0} 的完整路徑。</RimTube.ToolPathRequired>
+  <RimTube.PlaylistPreviewSummary>來源 {0} 首；新增 {1}，移除 {2}，順序{3}。
+移除只影響清單，不刪除音訊。重複影片合併為同一曲目。</RimTube.PlaylistPreviewSummary>
+  <RimTube.BatchDownloadSummary>{0} 首，同時最多 {1} 首；之後優先本機副本，不打斷目前播放。可在匯入工作調整平行數、取消／重試。</RimTube.BatchDownloadSummary>
+  <RimTube.QualityLimitDetail>畫質上限：{0}p（來源沒有時選擇較低畫質）</RimTube.QualityLimitDetail>
+  <RimTube.BatchDownloadResult>新增 {0} 首、已保存略過 {1} 首、已排程 {2} 首；之後優先本機副本。</RimTube.BatchDownloadResult>
+  <RimTube.TrackCount>{0} 首</RimTube.TrackCount>
+  <RimTube.PlayerFooter>後端：{0} · 下載／匯入中 {1} 首 · {2}</RimTube.PlayerFooter>
+  <RimTube.ConcurrentDownloadsDetail>平行下載：{0} 首（已有副本會略過）</RimTube.ConcurrentDownloadsDetail>
+  <RimTube.StreamBufferDetail>串流前向緩衝：{0} MiB；返回緩衝：{1} MiB</RimTube.StreamBufferDetail>
+  <RimTube.SourceUpdateMissing>已依來源更新 · {0} 首音訊未載入</RimTube.SourceUpdateMissing>
+  <RimTube.SourceLocalImport>本機匯入</RimTube.SourceLocalImport>
+  <RimTube.UpdateNoticesInvalid>更新檔的授權告示缺漏或大小異常，已保留原本工具。</RimTube.UpdateNoticesInvalid>
+  <RimTube.UpdateTooLarge>更新檔超過允許大小，已保留原本工具。</RimTube.UpdateTooLarge>
+  <RimTube.UpdateChecksumInvalid>更新檔雜湊驗證失敗，已保留原本工具。</RimTube.UpdateChecksumInvalid>
+  <RimTube.UpdateVersionInvalid>更新工具版本與官方發行版本不符，已保留原本工具。</RimTube.UpdateVersionInvalid>
+  <RimTube.UpdateStoredInvalid>已有的更新檔已損壞，請先回復隨包版本。</RimTube.UpdateStoredInvalid>
+  <RimTube.UpdateReleaseInvalid>無法驗證官方穩定版本資訊，已保留原本工具。</RimTube.UpdateReleaseInvalid>
+  <RimTube.UpdateApplied>解析核心設定已套用；自訂工具路徑仍優先。</RimTube.UpdateApplied>
+  <RimTube.UpdateStopFirst>請先停止播放，並等候解析、下載與工具檢查完成。</RimTube.UpdateStopFirst>
+  <RimTube.UpdateReverting>正在回復隨包解析核心…</RimTube.UpdateReverting>
+  <RimTube.UpdateDownloading>正在下載並驗證官方解析核心與授權告示…</RimTube.UpdateDownloading>
+  <RimTube.UpdateReady>解析核心已準備好，停止播放後會自動套用。</RimTube.UpdateReady>
+  <RimTube.UpdateCancelled>更新已取消，原本工具設定保留。</RimTube.UpdateCancelled>
+  <RimTube.UpdateFailed>更新未完成：{0}</RimTube.UpdateFailed>
+  <RimTube.UpdateWorking>解析核心處理中…</RimTube.UpdateWorking>
+  <RimTube.UpdateResolver>更新解析核心</RimTube.UpdateResolver>
+  <RimTube.RevertResolver>回復隨包版本</RimTube.RevertResolver>
+  <RimTube.UpdateResolverHint>只在按下更新時連線到官方 GitHub。新版保存在遊戲使用者資料夾，驗證成功才切換；不覆寫工作坊檔案。自訂 yt-dlp 路徑仍優先，清空後可使用自動選擇。</RimTube.UpdateResolverHint>
+  <RimTube.JsRuntime>JS 執行環境</RimTube.JsRuntime>
+</LanguageData>
