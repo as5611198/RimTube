@@ -23,4 +23,7 @@ Copy-Item -LiteralPath (Join-Path $root 'mod\About') -Destination $package -Recu
 Copy-Item -LiteralPath (Join-Path $root 'mod\Common') -Destination $package -Recurse -Force
 Copy-Item -LiteralPath (Join-Path $root 'mod\LoadFolders.xml') -Destination $package -Force
 Copy-Item -LiteralPath (Join-Path $root 'mod\README.txt') -Destination $package -Force
+Copy-Item -LiteralPath (Join-Path $root 'LICENSE') -Destination $package -Force
+Copy-Item -LiteralPath (Join-Path $root 'LICENSE-ASSETS.md') -Destination $package -Force
+Copy-Item -LiteralPath (Join-Path $root 'LICENSES') -Destination $package -Recurse -Force
 Write-Output "Local package: $package"

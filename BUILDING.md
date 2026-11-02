@@ -51,7 +51,8 @@ with definitions, languages and artwork:
 ./tools/Build.ps1 -Versions 1.7 -GameDir "D:/Games/RimWorld"
 ```
 
-This copies build outputs into `artifacts/RimTube-0.2.0`; it neither deploys to
+This copies build outputs and the code/content license notices into
+`artifacts/RimTube-0.2.0`; it neither deploys to
 your installed Mods folder nor launches the game. It does not include tool
 binaries. To test playback, use the release's separately installed playback
 tools or your own compatible versions via the in-mod settings.
